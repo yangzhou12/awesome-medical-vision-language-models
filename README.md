@@ -13,7 +13,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 ## Overview
 - [Survey Papers (if any)](#survey)
 - [General Vision-Language Models](#general-vision-language-models)
-- [Medical Vision-Language Pre-Training](#pre-training)
+- [Medical Vision-Language Pre-Training](#medical-vision-language-pre-training)
 - [Clinical Report Generation](#clinical-report-generation)
 - [Others](#others)
 <!-- - [Medical Image Reconstruction](#reconstruction) -->
