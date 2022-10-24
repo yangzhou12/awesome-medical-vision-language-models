@@ -11,13 +11,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
 <!-- We intend to regularly update the relevant latest papers and their open-source implementations on this page. If you find some overlooked papers, please open an issue or contact at fahad.shamshad3@gmail.com. -->
 
 ## Overview
-- [Survey papers](#survey)
-- [Medical Image Segmentation](#segmentation)
-- [Medical Image Classification](#classification)
-- [Medical Image Reconstruction](#reconstruction)
-- [Medical Image Registration](#registration)
-- [Medical Image Synthesis](#synthesis)
-- [Medical Image Detection](#detection)
+- [Survey Papers (if any)](#survey)
+- [General Vision-Language Models](#genral)
+- [Medical Vision-Language Pre-Training](#pre-training)
+<!-- - [Medical Image Reconstruction](#reconstruction) -->
 - [Clinical Report Generation](#clinical-report-generation)
 - [Others](#others)
 
@@ -47,9 +44,14 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Wenyin Zhang, Weijie Hao, Yuan Qi and Yong Wu.*<br>
  [[PDF](https://biomedgrid.com/pdf/AJBSR.MS.ID.002014.pdf)] 
 
+# General
 
 
-# Segmentation
+**Application of Transformer in Medical Image Segmentation.** [25th Oct., 2021].<br>
+*Wenyin Zhang, Weijie Hao, Yuan Qi and Yong Wu.*<br>
+ [[PDF](https://biomedgrid.com/pdf/AJBSR.MS.ID.002014.pdf)] 
+
+# Pre-Training
 
 **Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [20th Nov., 2020] [BIBM, 2020].<br>
 *Tim Prangemeier, Christoph Reich, Heinz Koeppl.*<br>
@@ -328,329 +330,6 @@ A curated list of awesome resources in medical vision-language models (**in chro
  [[PDF](https://arxiv.org/abs/2205.08878)][[Github](https://github.com/Project-MONAI/research-contributions)]
 
  
- 
-# Classification
-
-  **TransMed: Transformers Advance Multi-modal Medical Image Classification.** [10th March, 2021].<br>
-*Yin Dai, Yifan Gao.*<br>
- [[PDF](https://arxiv.org/abs/2103.05940)]
- 
-   **Medical Transformer: Universal Brain Encoder for 3D MRI Analysis.** [28th April, 2021].<br>
-*Eunji Jun, Seungwoo Jeong, Da-Woon Heo, Heung-Il Suk.*<br>
- [[PDF](https://arxiv.org/abs/2104.13633)] 
- 
-   **TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classification.** [2nd June, 2021] [⚡NeurIPS, 2021].<br>
-*Zhuchen Shao, Hao Bian, Yang Chen, Yifeng Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang.*<br>
- [[PDF](https://arxiv.org/abs/2106.00908)] [[Github](https://github.com/szc19990412/TransMIL)]
- 
-   **Vision Transformer-based recognition of diabetic retinopathy grade.** [15 July, 2021] [⚡CVPR, 2021].<br>
-*Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang.*<br>
- [[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Lesion-Aware_Transformers_for_Diabetic_Retinopathy_Grading_CVPR_2021_paper.html)] 
- 
-   **Is it Time to Replace CNNs with Transformers for Medical Images?** [20th Aug., 2021] [👍ICCV Workshop of Automated Medical Diagnosis, 2021].<br>
-*Christos Matsoukas, Johan Fredin Haslum, Magnus Söderberg, Kevin Smith.*<br>
- [[PDF](https://arxiv.org/abs/2108.09038)] [[Github](https://github.com/chrismats/medical_transformers)]
- 
-   **Gene Transformer: Transformers for the Gene Expression-based Classification of Lung Cancer Subtypes** [26th Aug., 2021].<br>
-*Anwar Khan, Boreom Lee.*<br>
- [[PDF](https://arxiv.org/abs/2108.11833)]
- 
-   **A transformer-based deep learning approach for classifying brain metastases into primary organ sites using clinical whole brain MRI.** [7th Oct., 2021].<br>
-*Qing Lyu, Sanjeev V. Namjoshi, Emory McTyre, Umit Topaloglu, Richard Barcus, Michael D. Chan, Christina K. Cramer, Waldemar Debinski, Metin N. Gurcan, Glenn J. Lesser, Hui-Kuan Lin, Reginald F. Munden, Boris C. Pasche, Kiran Kumar Solingapuram Sai, Roy E. Strowd, Stephen B. Tatter, Kounosuke Watabe, Wei Zhang, Ge Wang, Christopher T. Whitlow.*<br>
- [[PDF](https://arxiv.org/abs/2110.03588)] 
- 
-   **CAE-Transformer: Transformer-based Model to Predict Invasiveness of Lung Adenocarcinoma Subsolid Nodules from Non-thin Section 3D CT Scans.** [17th Oct., 2021].<br>
-*Shahin Heidarian, Parnian Afshar, Anastasia Oikonomou, Konstantinos N. Plataniotis, Arash Mohammadi.*<br>
- [[PDF](https://arxiv.org/abs/2110.08721)] 
- 
-   **Vision Transformer-based recognition of diabetic retinopathy grade.** [25th Oct., 2021].<br>
-*Jianfang Wu, Ruo Hu, Zhenghong Xiao, Jiaxu Chen, Jingwei Liu.*<br>
- [[PDF](https://pubmed.ncbi.nlm.nih.gov/34693536/)] 
- 
-   **VISION TRANSFORMERS FOR CLASSIFICATION OF BREAST ULTRASOUND IMAGES.** [27th Oct., 2021].<br>
-*Behnaz Gheflati, Hassan Rivaz.*<br>
- [[PDF](https://arxiv.org/abs/2110.14731)]
- 
-   **Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers** [12th Feb., 2022] [👍ISBI, 2022].<br>
-*Grzegorz Jacenków, Alison Q. O'Neil, Sotirios A. Tsaftaris.*<br>
- [[PDF](https://arxiv.org/abs/2202.06076)] [[Github](https://github.com/jacenkow/mmbt)]
- 
-   **AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation.** [13th Feb., 2022].<br>
-*Sangjoon Park, Gwanghyun Kim, Yujin Oh, Joon Beom Seo, Sang Min Lee, Jin Hwan Kim, Sungjun Moon, Jae-Kwang Lim, Chang Min Park, Jong Chul Ye.*<br>
- [[PDF](https://arxiv.org/abs/2202.06431)]
- 
-   **ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification.** [15th Feb., 2022].<br>
-*Thomas Stegmüller, Antoine Spahr, Behzad Bozorgtabar, Jean-Philippe Thiran.*<br>
- [[PDF](https://arxiv.org/abs/2202.07570v1)]
- 
-   **A hybrid 2-stage vision transformer for AI-assisted 5 class pathologic diagnosis of gastric endoscopic biopsies.** [17th Feb., 2022].<br>
-*Yujin Oh, Go Eun Bae, Kyung-Hee Kim, Min-Kyung Yeo, Jong Chul Ye.*<br>
- [[PDF](https://arxiv.org/abs/2202.08510)]
-
-   **RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification.** [23rd Feb., 2022].<br>
-*Moinak Bhattacharya, Shubham Jain, Prateek Prasanna.*<br>
- [[PDF](https://arxiv.org/abs/2202.11781)]
- 
-   **Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification.** [9th March, 2022].<br>
-*Zhiyuan Cai, Li Lin, Huaqing He, Xiaoying Tang.*<br>
- [[PDF](https://arxiv.org/abs/2203.04614)]
- 
-   **Noise-reducing attention cross fusion learning transformer for histological image classification of osteosarcoma.** [29th April, 2022].<br>
-*Liangrui Pan, Hetian Wang, Lian Wang, Boya Ji, Mingting Liu, Mitchai Chongcheawchamnan, Jin Yuan, Shaoliang Peng.*<br>
- [[PDF](https://arxiv.org/abs/2204.13838)]
- 
-   **HoVer-Trans: Anatomy-aware HoVer-Transformer for ROI-free Breast Cancer Diagnosis in Ultrasound Images.** [17th May, 2022].<br>
-*Yuhao Mo, Chu Han, Yu Liu, Min Liu, Zhenwei Shi, Jiatai Lin, Bingchao Zhao, Chunwang Huang, Bingjiang Qiu, Yanfen Cui, Lei Wu, Xipeng Pan, Zeyan Xu, Xiaomei Huang, Zaiyi Liu, Ying Wang, Changhong Liang.*<br>
- [[PDF](https://arxiv.org/abs/2205.08390)]
- 
-   **A graph-transformer for whole slide image classification** [19th May, 2022].<br>
-*Yi Zheng, Rushin H. Gindra, Emily J. Green, Eric J. Burks, Margrit Betke, Jennifer E. Beane, Vijaya B. Kolachalama.*<br>
- [[PDF](https://arxiv.org/abs/2205.09671)] [[Github](https://github.com/jacenkow/mmbt)]
- 
-   **A Comparative Study of Gastric Histopathology Sub-size Image Classification: from Linear Regression to Visual Transformer** [19th May, 2022].<br>
-*Weiming Hu, Haoyuan Chen, Wanli Liu, Xiaoyan Li, Hongzan Sun, Xinyu Huang, Marcin Grzegorzek, Chen Li.*<br>
- [[PDF]([https://arxiv.org/abs/2205.09671)]
- 
-   **Zero-Shot and Few-Shot Learning for Lung Cancer Multi-Label Classification using Vision Transformer** [30th May, 2022].<br>
-*Fu-Ming Guo, Yingfang Fan.*<br>
- [[PDF]([https://arxiv.org/abs/2205.15290)]
- 
- 
-## Classification COVID19 (Separate section due to its current significance)
-
-  **Vision Transformer for COVID-19 CXR Diagnosis using Chest X-ray Feature Corpus.** [12th March, 2021].<br>
-*Sangjoon Park, Gwanghyun Kim, Yujin Oh, Joon Beom Seo, Sang Min Lee, Jin Hwan Kim, Sungjun Moon, Jae-Kwang Lim, Jong Chul Ye.*<br>
- [[PDF](https://arxiv.org/abs/2103.07055)]
- 
-   **Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification.** [15th April, 2021].<br>
-*Sangjoon Park, Gwanghyun Kim, Yujin Oh, Joon Beom Seo, Sang Min Lee, Jin Hwan Kim, Sungjun Moon, Jae-Kwang Lim, Jong Chul Ye.*<br>
- [[PDF](https://arxiv.org/abs/2104.07235)]
- 
-   **POCFormer: A Lightweight Transformer Architecture for Detection of COVID-19 Using Point of Care Ultrasound.** [15th May, 2021].<br>
-*Shehan Perera, Srikar Adhikari, Alper Yilmaz.*<br>
- [[PDF](https://arxiv.org/abs/2105.09913)] 
- 
-   **Automatic Diagnosis of COVID-19 Using a tailored Transformer-Like Network.** [20th May, 2021].<br>
-*Chengeng Liu1, Qingshan Yin.*<br>
- [[PDF](https://iopscience.iop.org/article/10.1088/1742-6596/2010/1/012175)]
- 
-   **COVID-VIT: Classification of COVID-19 from CT chest images based on vision transformer models.** [4th July, 2021].<br>
-*Xiaohong Gao, Yu Qian, Alice Gao.*<br>
- [[PDF](https://arxiv.org/abs/2107.01682)] [[Github](https://github.com/xiaohong1/COVID-ViT)]
- 
-   **xViTCOS: Explainable Vision Transformer Based COVID-19 Screening Using Radiography .** [6th July, 2021].<br>
-*Arnab Kumar MondalArnab Kumar Mondal, Arnab Bhattacharjee, Parag Singla, Prathosh AP.*<br>
- [[PDF](https://www.techrxiv.org/articles/preprint/xViTCOS_Explainable_Vision_Transformer_Based_COVID-19_Screening_Using_Radiography/14912367/1)]
- 
-   **Visual Transformer with Statistical Test for COVID-19 Classification.** [12th July, 2021] [👍ICCV MIA Workshop, 2021].<br>
-*Chih-Chung Hsu, Guan-Lin Chen, Mei-Hsuan Wu.*<br>
- [[PDF](https://arxiv.org/abs/2107.05334)] 
- 
-   **MIA-COV19D: A transformer-based framework for COVID19 classification in chest CTs.** [15th July, 2021] [👍ICCV MIA Workshop, 2021].<br>
-*Lei Zhang, Yan Wen.*<br>
- [[PDF](https://www.researchgate.net/publication/353105641_MIA-COV19D_A_transformer-based_framework_for_COVID19_classification_in_chest_CTs)]
- 
-   **COViT-GAN: Vision Transformer forCOVID-19 Detection in CT images.** [10th August, 2021].<br>
-*Ara Abigail E. Ambita, Eujene Nikka V. Boquio, Prospero C. Naval Jr.*<br>
- [[PDF](https://www.springerprofessional.de/en/covit-gan-vision-transformer-forcovid-19-detection-in-ct-scan-im/19652482)] 
- 
-   **COVID-Transformer: Interpretable COVID-19 Detection Using Vision Transformer for Healthcare.** [23rd Sep., 2021].<br>
-*Debaditya Shome, T Kar, Sachi Nandan Mohanty, Prayag Tiwari, Khan Muhammad, Abdullah AlTameem, Yazhou Zhang, Abdul Khader Jilani Saudagar.*<br>
- [[PDF](https://pubmed.ncbi.nlm.nih.gov/34769600/)]
- 
-   **Vision Transformer based COVID-19 Detection using Chest X-rays.** [9th Oct., 2021].<br>
-*Koushik Sivarama Krishnan, Karthik Sivarama Krishnan.*<br>
- [[PDF](https://arxiv.org/abs/2110.04458)]  
- 
-   **COVID-19 Detection in Chest X-ray Images Using Swin-Transformer and Transformer in Transformer.** [16th Oct., 2021].<br>
-*Juntao Jiang, Shuyi Lin.*<br>
- [[PDF](https://arxiv.org/abs/2110.08427)] 
- 
-   **Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training.** [2nd Nov., 2021] [⚡NeurIPS, 2021].<br>
-*Sangjoon Park, Gwanghyun Kim, Jeongsol Kim, Boah Kim, Jong Chul Ye.*<br>
- [[PDF](https://arxiv.org/abs/2111.01338)]
- 
-   **Multi-task vision transformer using low-level chest X-ray feature corpus for COVID-19 diagnosis and severity quantification.** [4th Nov., 2021] [⚡MIA, 2021].<br>
-*Sangjoon Parka, Gwanghyun Kima,Yujin Oha, Joon Beom Seo, Sang Min Lee, Jin Hwan Kimc,Sungjun Moond, Jae-Kwang Lime, Jong Chul Ye.*<br>
- [[PDF](https://www.sciencedirect.com/science/article/pii/S1361841521003443)]
- 
-   **COVID-19 CT Image Recognition Algorithm Based on Transformer and CNN.** [24th Jan., 2022].<br>
-*Xiaole Fan, Xiufang Feng, Yunyun Dong, Huichao Hou.*<br>
- [[PDF](https://www.sciencedirect.com/science/article/pii/S0141938222000026)]
- 
-
-# Reconstruction
-
-   **TransCT: Dual-path Transformer for Low Dose Computed Tomography.** [28th Feb., 2021] [⚡MICCAI, 2021].<br>
-*Zhicheng Zhang, Lequan Yu, Xiaokun Liang, Wei Zhao, Lei Xing.*<br>
- [[PDF](https://arxiv.org/abs/2103.00634)] [[Github](https://github.com/zzc623/TransCT)]
- 
-   **Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers.** [15th May, 2021].<br>
-*Yilmaz Korkmaz, Salman UH Dar, Mahmut Yurt, Muzaffer Özbey, Tolga Çukur.*<br>
- [[PDF](https://arxiv.org/abs/2103.04430)] [[Github](https://github.com/Wenxuan-1119/TransBTS)]
- 
-   **TED-net: Convolution-free T2T Vision Transformer-based Encoder-decoder Dilation network for Low-dose CT Denoising.** [8th June, 2021].<br>
-*Dayang Wang, Zhan Wu, Hengyong Yu.*<br>
- [[PDF](https://arxiv.org/abs/2106.04650)]
- 
-   **Task Transformer Network for Joint MRI Reconstruction and Super-Resolution.** [12th June, 2021] [⚡MICCAI, 2021].<br>
-*Chun-Mei Feng, Yunlu Yan, Huazhu Fu, Li Chen, Yong Xu.*<br>
- [[PDF](https://arxiv.org/abs/2106.06742)] [[Github](https://github.com/chunmeifeng/T2Net)]
- 
-   **Accelerated Multi-Modal MR Imaging with Transformers.** [27th June, 2021].<br>
-*Chun-Mei Feng, Yunlu Yan, Geng Chen, Huazhu Fu, Yong Xu, Ling Shao.*<br>
- [[PDF](https://arxiv.org/abs/2106.14248)] [[Github](https://github.com/chunmeifeng/MTrans)]
- 
-   **E-DSSR: Efficient Dynamic Surgical Scene Reconstruction with Transformer-based Stereoscopic Depth Perception.** [1st July, 2021] [⚡MICCAI, 2021].<br>
-*Yonghao Long, Zhaoshuo Li, Chi Hang Yee, Chi Fai Ng, Russell H. Taylor, Mathias Unberath, Qi Dou.*<br>
- [[PDF](https://arxiv.org/abs/2107.00229)]
- 
-   **Eformer: Edge Enhancement based Transformer for Medical Image Denoising.** [16th Sep., 2021] [👍ICCV Workshop, 2021].<br>
-*Achleshwar Luthra, Harsh Sulakhe, Tanish Mittal, Abhishek Iyer, Santosh Yadav.*<br>
- [[PDF](https://arxiv.org/abs/2109.08044)] 
- 
-   **Transformer-Unet: Raw Image Processing with Unet.** [17th Sep., 2021].<br>
-*Youyang Sha, Yonghong Zhang, Xuquan Ji, Lei Hu.*<br>
- [[PDF](https://arxiv.org/abs/2109.08417)]
- 
-   **Deep MRI Reconstruction with Generative Vision Transformers .** [25th Sep., 2021].<br>
-*Yilmaz KorkmazMahmut Yurt, Salman Ul Hassan Dar, Muzaffer Özbey, Tolga Cukur.*<br>
- [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-88552-6_6)] [[Github](https://github.com/icon-lab/SLATER)]
- 
-   **3D Transformer-GAN for High-quality PET Reconstruction.** [29th Sep., 2021] [⚡MICCAI, 2021].<br>
-*Yanmei Luo, Yan Wang, Chen Zu, Bo Zhan, Xi Wu, Jiliu Zhou, Dinggang Shen, Luping Zhou.*<br>
- [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_27)] 
- 
-   **TranSMS: Transformers for Super-Resolution Calibration in Magnetic Particle Imaging.** [3rd Nov., 2021] .<br>
-*Alper Güngör, Baris Askin, Damla Alptekin Soydan, Emine Ulku Saritas, Can Barış Top, Tolga Çukur.*<br>
- [[PDF](https://arxiv.org/abs/2111.02163)] 
- 
-   **DuDoTrans: Dual-Domain Transformer Provides More Attention for Sinogram Restoration in Sparse-View CT Reconstruction.** [21st Nov., 2021] .<br>
-*Ce Wang, Kun Shang, Haimiao Zhang, Qian Li, Yuan Hui, S. Kevin Zhou.*<br>
- [[PDF](https://arxiv.org/abs/2111.10790)]
- 
-   **Self-supervised CT super-resolution with hybrid model.** [23rd Nov., 2021] .<br>
-*Zhicheng Zhang, Shaode Yu, Wenjian Qin, Xiaokun Liang, Yaoqin Xie, Guohua Cao.*<br>
- [[PDF](https://www.sciencedirect.com/science/article/pii/S0010482521005692)] 
- 
-   **MIST-net: Multi-domain Integrative Swin Transformer network for Sparse-View CT Reconstruction.** [29th Nov., 2021] .<br>
-*Jiayi Pan, Weiwen Wu, Zhifan Gao, Heye Zhang.*<br>
- [[PDF](https://arxiv.org/abs/2111.14831)]
- 
-   **ReconFormer: Accelerated MRI Reconstruction Using Recurrent Transformer.** [23rd Jan., 2022] .<br>
-*Pengfei Guo, Yiqun Mei, Jinyuan Zhou, Shanshan Jiang, Vishal M. Patel.*<br>
- [[PDF](https://arxiv.org/abs/2201.09376)][[Github](https://github.com/guopengf/reconformer)]
- 
-   **DSFormer: A Dual-domain Self-supervised Transformer for Accelerated Multi-contrast MRI Reconstruction.** [26th Jan., 2022] .<br>
-*Bo Zhou, Jo Schlemper, Neel Dey, Seyed Sadegh Mohseni Salehi, Chi Liu, James S. Duncan, Michal Sofka.*<br>
- [[PDF](https://arxiv.org/abs/2201.10776)]
-
-   **CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising.** [28th Feb., 2022] .<br>
-*Dayang Wang, Fenglei Fan, Zhan Wu, Rui Liu, Fei Wang, Hengyong Yu.*<br>
- [[PDF](https://arxiv.org/abs/2202.13517)][[Github](https://github.com/wdayang/CTformer)]
- 
-   **Adaptively Re-weighting Multi-Loss Untrained Transformer for Sparse-View Cone-Beam CT Reconstruction.** [23rd March, 2022] .<br>
-*Minghui Wu, Yangdi Xu, Yingying Xu, Guangwei Wu, Qingqing Chen, Hongxiang Lin.*<br>
- [[PDF](https://arxiv.org/abs/2203.12476)]
- 
-   **Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution.** [26th March, 2022] .<br>
-*Guangyuan Li, Jun Lv, Yapeng Tian, Qi Dou, Chengyan Wang, Chenliang Xu, Jing Qin.*<br>
- [[PDF](https://arxiv.org/abs/2203.13963)]
- 
-   **Cross-Modality High-Frequency Transformer for MR Image Super-Resolution.** [29th March, 2022] .<br>
-*Chaowei Fang, Dingwen Zhang, Liang Wang, Yulun Zhang, Lechao Cheng, Junwei Han.*<br>
- [[PDF](https://arxiv.org/abs/2203.15314)]
- 
-   **Data and Physics Driven Learning Models for Fast MRI -- Fundamentals and Methodologies from CNN, GAN to Attention and Transformers.** [1st April, 2022] .<br>
-*Jiahao Huang, Yingying Fang, Yang Nan, Huanjun Wu, Yinzhe Wu, Zhifan Gao, Yang Li, Zidong Wang, Pietro Lio, Daniel Rueckert, Yonina C. Eldar, Guang Yang.*<br>
- [[PDF](https://arxiv.org/abs/2204.01706)]
- 
-   **Low-Dose CT Denoising via Sinogram Inner-Structure Transformer.** [7th April, 2022] .<br>
-*Liutao Yang, Zhongnian Li, Rongjun Ge, Junyong Zhao, Haipeng Si, Daoqiang Zhang.*<br>
- [[PDF](https://arxiv.org/abs/2204.03163)]
- 
-   **Masked Co-attentional Transformer reconstructs 100x ultra-fast/low-dose whole-body PET from longitudinal images and anatomically guided MRI.** [9th May, 2022] .<br>
-*Yan-Ran Wang, Liangqiong Qu, Natasha Diba Sheybani, Xiaolong Luo, Jiangshan Wang, Kristina Elizabeth Hawk, Ashok Joseph Theruvath, Sergios Gatidis, Xuerong Xiao, Allison Pribnow, Daniel Rubin, Heike E. Daldrup-Link.*<br>
- [[PDF](https://arxiv.org/abs/2205.04044)]
-
-# Registration
-
-  **ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration.** [13th April, 2021] [👍MIDL Short Paper, 2021].<br>
-*Junyu Chen, Yufan He, Eric C. Frey, Ye Li, Yong Du.*<br>
- [[PDF](https://arxiv.org/abs/2104.06468)] [[Github](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch)]
- 
-   **Attention for Image Registration (AiR): an unsupervised Transformer approach.** [5th May, 2021].<br>
-*Zihao Wang, Hervé Delingette.*<br>
- [[PDF](https://arxiv.org/abs/2105.02282)]
- 
-   **Learning Dual Transformer Network for Diffeomorphic Registration.** [21st Sep., 2021] [⚡MICCAI, 2021].<br>
-*Yungeng Zhang, Yuru Pei, Hongbin Zha.*<br>
- [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_13)]
- 
-   **TransMorph: Transformer for unsupervised medical image registration.** [19th Nov., 2021].<br>
-*Junyu Chen, Yong Du, Yufan He, William P. Segars, Ye Li, Eric C. Frey.*<br>
- [[PDF](https://arxiv.org/abs/2111.10480)] [[Github](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)]
-
-   **A Transformer-based Network for Deformable Medical Image Registration.** [24th Feb., 2022].<br>
-*Yibo Wang, Wen Qian, Xuming Zhang.*<br>
- [[PDF](https://arxiv.org/abs/2202.12104)]
- 
-   **Affine Medical Image Registration with Coarse-to-Fine Vision Transformer.** [29th March, 2022].<br>
-*Tony C. W. Mok, Albert C. S. Chung.*<br>
- [[PDF](https://arxiv.org/abs/2203.15216)] [[Github](https://github.com/cwmok/C2FViT)]
-
-# Synthesis
-
-  **VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers.** [14th April, 2021] [👍ICCV Workshop on Computer Vision for Automated Medical Diagnosi, 2021].<br>
-*Sharif Amit Kamran, Khondker Fariha Hossain, Alireza Tavakkoli, Stewart Lee Zuckerbrod, Salah A. Baker.*<br>
- [[PDF](https://arxiv.org/abs/2104.06757)] [[Github](https://github.com/SharifAmit/VTGAN)]
- 
-   **PTNet: A High-Resolution Infant MRI Synthesizer Based on Transformer.** [28th May, 2021].<br>
-*Xuzhe Zhang, Xinzi He, Jia Guo, Nabil Ettehadi, Natalie Aw, David Semanek, Jonathan Posner, Andrew Laine, Yun Wang.*<br>
- [[PDF](https://arxiv.org/abs/2105.13993)] [[Github](https://github.com/XuzheZ/PTNet)]
- 
-   **ResViT: Residual vision transformers for multi-modal medical image synthesis.** [30th June, 2021].<br>
-*Onat Dalmaz, Mahmut Yurt, Tolga Çukur.*<br>
- [[PDF](https://arxiv.org/abs/2106.16031)] [[Github](https://github.com/icon-lab/ResViT)]
- 
-   **CyTran: Cycle-Consistent Transformers for Non-Contrast to Contrast CT Translation.** [12th Oct., 2021].<br>
-*Nicolae-Catalin Ristea, Andreea-Iuliana Miron, Olivian Savencu, Mariana-Iuliana Georgescu, Nicolae Verga, Fahad Shahbaz Khan, Radu Tudor Ionescu.*<br>
- [[PDF](https://arxiv.org/abs/2110.06400)] [[Github](https://github.com/ristea/cycle-transformer)]
- 
-   **One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation.** [28th April, 2022].<br>
-*Jiang Liu, Srivathsa Pasumarthi, Ben Duffy, Enhao Gong, Greg Zaharchuk, Keshav Datta.*<br>
- [[PDF](https://arxiv.org/abs/2204.13738)] 
-
-# Detection
- 
-   **COTR: Convolution in Transformer Network for End to End Polyp Detection.** [23rd May, 2021].<br>
-*Zhiqiang Shen, Chaonan Lin, Shaohua Zheng.*<br>
- [[PDF](https://arxiv.org/abs/2105.10925)]
-  
-   **Transformer for Polyp Detection.** [14th Oct., 2021].<br>
-*Shijie Liu, Hongyu Zhou, Xiaozhou Shi, Junwen Pan.*<br>
- [[PDF](https://arxiv.org/abs/2111.07918)]
-  
-   **Lymph Node Detection in T2 MRI with Transformers.** [9th Nov., 2021].<br>
-*Tejas Sudharshan Mathai, Sungwon Lee, Daniel C. Elton, Thomas C. Shen, Yifan Peng, Zhiyong Lu, Ronald M. Summers.*<br>
- [[PDF](https://arxiv.org/abs/2111.04885)]
- 
-   **SATr: Slice Attention with Transformer for Universal Lesion Detection.** [13th March, 2022].<br>
-*Han Li, Long Chen, Hu Han, S. Kevin Zhou.*<br>
- [[PDF](https://arxiv.org/abs/2203.07373)]
- 
-   **Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection.** [13th March, 2022].<br>
-*Yu Tian, Guansong Pang, Fengbei Liu, Yuyuan Liu, Chong Wang, Yuanhong Chen, Johan W Verjans, Gustavo Carneiro.*<br>
- [[PDF](https://arxiv.org/abs/2203.12121)]
- 
-   **Unsupervised Contrastive Learning based Transformer for Lung Nodule Detection.** [30th April, 2022].<br>
-*Chuang Niu, Ge Wang.*<br>
- [[PDF](https://arxiv.org/abs/2205.00122)]
- 
-   **An Effective Transformer-based Solution for RSNA Intracranial Hemorrhage Detection Competition.** [16th May, 2022].<br>
-*Fangxin Shang, Siqi Wang, Xiaorong Wang, Yehui Yang.*<br>
- [[PDF](https://arxiv.org/abs/2205.07556)] [[Github]([https://github.com/ristea/cycle-transformer](https://github.com/PaddlePaddle/Research))]
- 
 # Clinical-Report-Generation
 
    **Reinforced Transformer for Medical Image Captioning.** [10th Oct., 2019].[MLMI, 2019]<br>
@@ -810,7 +489,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
  
 
-# Citation
+<!-- # Citation
 
 If you find the listing and survey useful for your work, please cite the paper:
 
@@ -824,4 +503,4 @@ If you find the listing and survey useful for your work, please cite the paper:
       primaryClass={cs.CV}
 }
 ```
-
+ -->
