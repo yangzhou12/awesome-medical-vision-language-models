@@ -46,7 +46,6 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 # General Vision-Language Models
 
-
 **Application of Transformer in Medical Image Segmentation.** [25th Oct., 2021].<br>
 *Wenyin Zhang, Weijie Hao, Yuan Qi and Yong Wu.*<br>
  [[PDF](https://biomedgrid.com/pdf/AJBSR.MS.ID.002014.pdf)] 
