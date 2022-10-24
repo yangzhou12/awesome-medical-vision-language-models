@@ -15,7 +15,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 - [General Vision-Language Models](#general-vision-language-models)
 - [Medical Vision-Language Pre-Training](#medical-vision-language-pre-training)
 - [Clinical Report Generation](#clinical-report-generation)
-- [Others](#others)
+- [Datasets](#datasets)
 <!-- - [Medical Image Reconstruction](#reconstruction) -->
 
 # Survey
@@ -400,7 +400,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
  [[PDF](https://arxiv.org/abs/2205.02841)]
  
 
-# Others
+# Datasets
 
    **Multimodal Co-Attention Transformer for Survival Prediction in Gigapixel Whole Slide Images.** [22nd Sep., 2021]. [⚡ICCV, 2021]<br>
 *Chen, Richard J and Lu, Ming Y and Weng, Wei-Hung and Chen, Tiffany Y and Williamson, Drew FK and Manz, Trevor and Shady, Maha and Mahmood, Faisal.*<br>
