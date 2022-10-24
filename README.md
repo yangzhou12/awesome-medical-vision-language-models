@@ -50,7 +50,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Wenyin Zhang, Weijie Hao, Yuan Qi and Yong Wu.*<br>
  [[PDF](https://biomedgrid.com/pdf/AJBSR.MS.ID.002014.pdf)] 
 
-# Pre-Training
+# Medical Vision-Language Pre-Training
 
 **Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [20th Nov., 2020] [BIBM, 2020].<br>
 *Tim Prangemeier, Christoph Reich, Heinz Koeppl.*<br>
