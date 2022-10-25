@@ -77,6 +77,22 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Masoud Monajatipoor, Mozhdeh Rouhsedaghat, Liunian Harold Li, Aichi Chien, C.-C. Jay Kuo, Fabien Scalzo, Kai-Wei Chang.*<br>
  [[PDF](https://arxiv.org/abs/2108.04938)] 
  
+   **GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-efficient Medical Image Recognition.** [Oct., 2021] [ICCV 2021].<br>
+*Masoud Monajatipoor, Mozhdeh Rouhsedaghat, Liunian Harold Li, Aichi Chien, C.-C. Jay Kuo, Fabien Scalzo, Kai-Wei Chang.*<br>
+ [[PDF](https://doi.org/10.1109/ICCV48922.2021.00391)] [[Github](https://github.com/marshuang80/gloria)]  
+ 
+   **ContIG: Self-supervised Multimodal Contrastive Learning for Medical Imaging with Genetics.** [Nov., 2021] [CVPR 2022].<br>
+*Masoud Monajatipoor, Mozhdeh Rouhsedaghat, Liunian Harold Li, Aichi Chien, C.-C. Jay Kuo, Fabien Scalzo, Kai-Wei Chang.*<br>
+ [[PDF](https://arxiv.org/abs/2111.13424)] [[Github](https://github.com/HealthML/ContIG)] 
+
+   **Breaking with Fixed Set Pathology Recognition through Report-Guided Contrastive Training.** [May, 2022] [MICAI, 2022].<br>
+*Constantin Seibold, Simon Reiß, M. Saquib Sarfraz, Rainer Stiefelhagen, Jens Kleesiek.*<br>
+ [[PDF](https://arxiv.org/abs/2205.07139)] [[Github](https://github.com/batmanlab/AGXNet)] 
+ 
+   **MedCLIP: Contrastive Learning from Unpaired Medical Images and Text.** [Oct., 2022] [EMNLP, 2022].<br>
+*Zifeng Wang, Zhenbang Wu, Dinesh Agarwal, Jimeng Sun.*<br>
+ [[PDF](https://arxiv.org/abs/2210.10163)]
+
 ## Medical Vision Question Answering
 
    **A Comparison of Pre-trained Vision-and-Language Models for Multimodal Representation Learning across Medical Images and Reports.** [Sep., 2020] [BIBM, 2020].<br>
@@ -158,6 +174,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **Improving Radiology Report Generation Systems by Removing Hallucinated References to Non-existent Priors.** [Oct., 2022].<br>
 *Vignav Ramesh, Nathan Andrew Chi, Pranav Rajpurkar.*<br>
  [[PDF](https://arxiv.org/abs/2210.06340)] 
+ 
+   **That's the Wrong Lung! Evaluating and Improving the Interpretability of Unsupervised Multimodal Encoders for Medical Data.** [Oct., 2022].<br>
+*Denis Jered McInerney, Geoffrey Young, Jan-Willem van de Meent, Byron C. Wallace.*<br>
+ [[PDF](https://arxiv.org/abs/2210.06565)] 
 
 # Datasets
 
