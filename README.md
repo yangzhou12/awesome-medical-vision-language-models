@@ -330,7 +330,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 # Datasets
 
-   **Two public chest X-ray datasets for computer-aided screening of pulmonary diseases.** [Dec., 2014] [JAMIA, 2016].<br>
+   **Shenzhen chest X-ray set: Two public chest X-ray datasets for computer-aided screening of pulmonary diseases.** [Dec., 2014] [JAMIA, 2016].<br>
 *Stefan Jaeger, Sema Candemir, Sameer Antani, Yì-Xiáng J. Wáng, Pu-Xuan Lu, George Thoma.*<br>
  [[PDF](https://doi.org/10.3978%2Fj.issn.2223-4292.2014.11.20)] [[Url](https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen)]
 
