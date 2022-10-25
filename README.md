@@ -26,12 +26,6 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Lars HeiligerLars Heiliger, Anjany Sekuboyina, Bjoern Menze, Jan EggerJan Egger, Jens Kleesiek.*<br>
 [[PDF](https://www.researchgate.net/profile/Jan-Egger-2/publication/358581125_Beyond_Medical_Imaging_A_Review_of_Multimodal_Deep_Learning_in_Radiology/links/620a1e5a7b05f82592ea5bda/Beyond-Medical-Imaging-A-Review-of-Multimodal-Deep-Learning-in-Radiology.pdf)] 
 
-<!-- # General Vision-Language Models
-
-**Application of Transformer in Medical Image Segmentation.** [25th Oct., 2021].<br>
-*Wenyin Zhang, Weijie Hao, Yuan Qi and Yong Wu.*<br>
- [[PDF](https://biomedgrid.com/pdf/AJBSR.MS.ID.002014.pdf)]  -->
-
 # Medical Vision-Language Pre-Training
 
   **Self-supervised Image-text Pre-training With Mixed Data In Chest X-rays.** [Mar., 2021].<br>
@@ -45,6 +39,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
   **Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training.** [May, 2021] [JBHI 2022].<br>
 *Jong Hak Moon, Hyungyung Lee, Woncheol Shin, Young-Hak Kim, Edward Choi.*<br>
  [[PDF](https://arxiv.org/abs/2105.11333)] [[Github](https://github.com/SuperSupermoon/MedViLL)]
+ 
+  **Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports.** [Oct., 2021] [Nature Machine Learning 2022].<br>
+*Hong-Yu Zhou, Xiaoyu Chen, Yinghao Zhang, Ruibang Luo, Liansheng Wang, Yizhou Yu.*<br>
+ [[PDF](https://www.nature.com/articles/s42256-021-00425-9)] [[Github](https://github.com/funnyzhou/refers)]
 
   **Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation.** [Jun., 2022] [AAAI 2022].<br>
 *Bin Yan, Mingtao Pei.*<br>
@@ -61,6 +59,15 @@ A curated list of awesome resources in medical vision-language models (**in chro
   **Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge.** [Sep., 2022] [ACM MM 2022].<br>
 *Zhihong Chen, Guanbin Li, Xiang Wan.*<br>
  [[PDF](https://arxiv.org/abs/2209.07118)] [[Github](https://github.com/zhjohnchan/ARL)]
+ 
+  **Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study.** [Sep., 2022].<br>
+*Ziyuan Qin, Huahui Yi, Qicheng Lao, Kang Li.*<br>
+ [[PDF](https://arxiv.org/abs/2209.15517)]
+ 
+  **Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning.** [Sep., 2022] [Nature Biomedical Engineering 2022].<br>
+*Ekin Tiu, Ellie Talius, Pujan Patel, Curtis P. Langlotz, Andrew Y. Ng, Pranav Rajpurkar.*<br>
+ [[PDF](https://www.nature.com/articles/s41551-022-00936-9)] [[Github](https://github.com/rajpurkarlab/CheXzero)]
+ 
 
 # Vision-Language Models for Healthcare
 
@@ -102,9 +109,19 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 ## Clinical Report Generation
 
+   **Retrieval-Based Chest X-Ray Report Generation Using a Pre-trained Contrastive Language-Image Model.** [Nov., 2021] [ML4H 2021].<br>
+*Mark Endo, Rayan Krishnan, Viswesh Krishna, Andrew Y. Ng, Pranav Rajpurkar.*<br>
+ [[PDF](https://proceedings.mlr.press/v158/endo21a.html)] [[Github](https://github.com/rajpurkarlab/CXR-RePaiR)]
+
+   **Auto-Encoding Knowledge Graph for Unsupervised Medical Report Generation.** [Nov., 2021] [NeurIPS 2021].<br>
+*Fenglin Liu, Chenyu You, Xian Wu, Shen Ge, Sheng Wang, Xu Sun.*<br>
+ [[PDF](https://arxiv.org/abs/2111.04318)] 
+ 
    **RepsNet: Combining Vision with Language for Automated Medical Reports.** [Sep., 2022] [MICAI 2022].<br>
 *Ajay Kumar Tanwani, Joelle Barral, Daniel Freedman.*<br>
  [[PDF](https://arxiv.org/abs/2209.13171)] 
+
+# Explaination, Bias, and Robustness
 
 # Datasets
 
@@ -119,19 +136,3 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **RadGraph: Extracting Clinical Entities and Relations from Radiology Reports.** [Jun, 2021] [NeurIPS 2021].<br>
 *Saahil Jain, Ashwin Agrawal, Adriel Saporta, Steven QH Truong, Du Nguyen Duong, Tan Bui, Pierre Chambon, Yuhao Zhang, Matthew P. Lungren, Andrew Y. Ng, Curtis P. Langlotz, Pranav Rajpurkar.*<br>
  [[PDF](https://arxiv.org/abs/2106.14463)] [[Url](https://physionet.org/content/radgraph/1.0.0/)]
-
-<!-- # Citation
-
-If you find the listing and survey useful for your work, please cite the paper:
-
-```
-@misc{shamshad2022transformers,
-      title={Transformers in Medical Imaging: A Survey}, 
-      author={Shamshad, Fahad and  Khan, Salman and Zamir, Syed Waqas and Khan, Muhammad Haris and  Hayat, Munawar and Khan, Fahad Shahbaz and Fu, Huazhu}
-      year={2022},
-      eprint={2201.09873},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
- -->
