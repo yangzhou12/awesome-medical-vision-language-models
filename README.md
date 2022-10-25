@@ -56,7 +56,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
  [[PDF](https://arxiv.org/abs/2009.01523)] [[Github](https://github.com/YIKUAN8/Transformers-VQA)]
  
    **AMAM: An Attention-based Multimodal Alignment Model for Medical Visual Question Answering.** [Sep, 2022] [KBS, 2022].<br>
-*Yikuan Li, Hanyin Wang, Yuan Luo.*<br>
+*Haiwei Pan, Shuning He, Kejia Zhang, Bo Qu, Chunling Chen, Kun Shi.*<br>
  [[PDF](https://doi.org/10.1016/j.knosys.2022.109763)] 
 
 ## Medical Object Locolization
