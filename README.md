@@ -119,10 +119,6 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Yash Khare, Viraj Bagal, Minesh Mathew, Adithi Devi, U Deva Priyakumar, CV Jawahar.*<br>
  [[PDF](https://arxiv.org/abs/2104.01394)] [[Github](https://github.com/VirajBagal/MMBERT)]
  
-   **AMAM: An Attention-based Multimodal Alignment Model for Medical Visual Question Answering.** [Sep., 2022] [KBS, 2022].<br>
-*Haiwei Pan, Shuning He, Kejia Zhang, Bo Qu, Chunling Chen, Kun Shi.*<br>
- [[PDF](https://doi.org/10.1016/j.knosys.2022.109763)] 
- 
    **MuVAM: A Multi-View Attention-based Model for Medical Visual Question Answering.** [Jul., 2021].<br>
 *Haiwei Pan, Shuning He, Kejia Zhang, Bo Qu, Chunling Chen, Kun Shi.*<br>
  [[PDF](https://arxiv.org/abs/2107.03216)] 
@@ -130,6 +126,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **Vision-Language Transformer for Interpretable Pathology Visual Question Answering.** [Mar., 2022] [JBHI, 2022].<br>
 *Usman Naseem, Matloob Khushi, Jinman Kim.*<br>
  [[PDF](https://doi.org/10.1109/JBHI.2022.3163751)] 
+ 
+   **AMAM: An Attention-based Multimodal Alignment Model for Medical Visual Question Answering.** [Sep., 2022] [KBS, 2022].<br>
+*Haiwei Pan, Shuning He, Kejia Zhang, Bo Qu, Chunling Chen, Kun Shi.*<br>
+ [[PDF](https://doi.org/10.1016/j.knosys.2022.109763)] 
  
    **Medical visual question answering based on question-type reasoning and semantic space constraint.** [Sep., 2022] [ARTMED, 2022].<br>
 *Meiling Wang, Xiaohai He, Luping Liu, Linbo Qing, Honggang Chen, Yan Liu, Chao Ren.*<br>
