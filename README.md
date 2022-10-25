@@ -110,6 +110,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **MuVAM: A Multi-View Attention-based Model for Medical Visual Question Answering.** [Jul., 2021].<br>
 *Haiwei Pan, Shuning He, Kejia Zhang, Bo Qu, Chunling Chen, Kun Shi.*<br>
  [[PDF](https://arxiv.org/abs/2107.03216)] 
+ 
+   **Vision-Language Transformer for Interpretable Pathology Visual Question Answering.** [Mar., 2022] [JBHI, 2022].<br>
+*Usman Naseem, Matloob Khushi, Jinman Kim.*<br>
+ [[PDF](https://doi.org/10.1109/JBHI.2022.3163751)] 
 
 ## Medical Object Locolization and Anomaly Detection
 
