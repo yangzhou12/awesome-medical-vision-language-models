@@ -330,6 +330,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 # Datasets
 
+   **Preparing a collection of radiology examinations for distribution and retrieval.** [Mar, 2016] [JAMIA, 2016].<br>
+*Dina Demner-Fushman, Marc D. Kohli, Marc B. Rosenman, Sonya E. Shooshan, Laritza Rodriguez, Sameer Antani, George R. Thoma, Clement J. McDonald.*<br>
+ [[PDF](https://doi.org/10.1093/jamia/ocv080)] [[Url](https://openi.nlm.nih.gov/)]
+
    **ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases.** [May, 2017].<br>
 *Xiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, Mohammadhadi Bagheri, Ronald M. Summers.*<br>
  [[PDF](https://arxiv.org/abs/1705.02315)] [[Url](https://nihcc.app.box.com/v/ChestXray-NIHCC)]
