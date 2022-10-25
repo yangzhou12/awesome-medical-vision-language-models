@@ -22,6 +22,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 # Survey
 
+**Deep Multi-modal Fusion of Image and Non-image Data in Disease Diagnosis and Prognosis: A Review.** [Mar., 2022].<br>
+*Can Cui, Haichun Yang, Yaohong Wang, Shilin Zhao, Zuhayr Asad, Lori A. Coburn, Keith T. Wilson, Bennett A. Landman, Yuankai Huo.*<br>
+[[PDF](https://arxiv.org/abs/2203.15588)] 
+
 **Beyond Medical Imaging: A Review of Multimodal Deep Learning in Radiology.** [Apr., 2022].<br>
 *Lars HeiligerLars Heiliger, Anjany Sekuboyina, Bjoern Menze, Jan EggerJan Egger, Jens Kleesiek.*<br>
 [[PDF](https://www.researchgate.net/profile/Jan-Egger-2/publication/358581125_Beyond_Medical_Imaging_A_Review_of_Multimodal_Deep_Learning_in_Radiology/links/620a1e5a7b05f82592ea5bda/Beyond-Medical-Imaging-A-Review-of-Multimodal-Deep-Learning-in-Radiology.pdf)] 
@@ -77,6 +81,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Masoud Monajatipoor, Mozhdeh Rouhsedaghat, Liunian Harold Li, Aichi Chien, C.-C. Jay Kuo, Fabien Scalzo, Kai-Wei Chang.*<br>
  [[PDF](https://arxiv.org/abs/2108.04938)] 
  
+   **Improving Joint Learning of Chest X-Ray and Radiology Report by Word Region Alignment.** [Sep., 2021] [MLMI, 2021].<br>
+*Zhanghexuan Ji, Mohammad Abuzar Shaikh, Dana Moukheiber, Sargur N Srihari, Yifan Peng, Mingchen Gao.*<br>
+ [[PDF](https://doi.org/10.1007/978-3-030-87589-3_12)] [[Github](https://github.com/mshaikh2/JoImTeR_MLMI_2021)]  
+ 
    **GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-efficient Medical Image Recognition.** [Oct., 2021] [ICCV, 2021].<br>
 *Masoud Monajatipoor, Mozhdeh Rouhsedaghat, Liunian Harold Li, Aichi Chien, C.-C. Jay Kuo, Fabien Scalzo, Kai-Wei Chang.*<br>
  [[PDF](https://doi.org/10.1109/ICCV48922.2021.00391)] [[Github](https://github.com/marshuang80/gloria)]  
@@ -88,7 +96,11 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **Breaking with Fixed Set Pathology Recognition through Report-Guided Contrastive Training.** [May, 2022] [MICAI, 2022].<br>
 *Constantin Seibold, Simon Reiß, M. Saquib Sarfraz, Rainer Stiefelhagen, Jens Kleesiek.*<br>
  [[PDF](https://arxiv.org/abs/2205.07139)] [[Github](https://github.com/batmanlab/AGXNet)] 
- 
+
+   **RadTex: Learning Efficient Radiograph Representations from Text Reports.** [Aug., 2022] [MICAI Workshop, 2022].<br>
+*Keegan Quigley, Miriam Cha, Ruizhi Liao, Geeticka Chauhan, Steven Horng, Seth Berkowitz, Polina Golland.*<br>
+ [[PDF](https://arxiv.org/abs/2208.03218)] 
+
    **MedCLIP: Contrastive Learning from Unpaired Medical Images and Text.** [Oct., 2022] [EMNLP, 2022].<br>
 *Zifeng Wang, Zhenbang Wu, Dinesh Agarwal, Jimeng Sun.*<br>
  [[PDF](https://arxiv.org/abs/2210.10163)]
@@ -172,6 +184,18 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **Retrieval-Based Chest X-Ray Report Generation Using a Pre-trained Contrastive Language-Image Model.** [Dec., 2021] [ML4H, 2021].<br>
 *Mark Endo, Rayan Krishnan, Viswesh Krishna, Andrew Y. Ng, Pranav Rajpurkar.*<br>
  [[PDF](https://proceedings.mlr.press/v158/endo21a.html)] [[Github](https://github.com/rajpurkarlab/CXR-RePaiR)]
+ 
+   **Knowledge matters: Chest radiology report generation with general and specific knowledge.** [Dec., 2021] [MIA, 2022].<br>
+*Shuxin Yang, Xian Wu, Shen Ge, S Kevin Zhou, Li Xiao.*<br>
+ [[PDF](https://arxiv.org/abs/2112.15009)] 
+
+   **Radiology Report Generation with a Learned Knowledge Base and Multi-modal Alignment.** [Dec., 2021].<br>
+*Shuxin Yang, Xian Wu, Shen Ge, S.Kevin Zhou, Li Xiao.*<br>
+ [[PDF](https://arxiv.org/abs/2112.15011)]
+
+   **Few-shot Structured Radiology Report Generation Using Natural Language Prompts.** [Mar., 2022].<br>
+*Matthias Keicher, Kamilia Mullakaeva, Tobias Czempiel, Kristina Mach, Ashkan Khakzar, Nassir Navab.*<br>
+ [[PDF](https://arxiv.org/abs/2203.15723)] 
 
    **RepsNet: Combining Vision with Language for Automated Medical Reports.** [Sep., 2022] [MICAI, 2022].<br>
 *Ajay Kumar Tanwani, Joelle Barral, Daniel Freedman.*<br>
