@@ -330,7 +330,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 # Datasets
 
-   **Preparing a collection of radiology examinations for distribution and retrieval.** [Mar, 2016] [JAMIA, 2016].<br>
+   **OpenI-CXR: Preparing a collection of radiology examinations for distribution and retrieval.** [Mar, 2016] [JAMIA, 2016].<br>
 *Dina Demner-Fushman, Marc D. Kohli, Marc B. Rosenman, Sonya E. Shooshan, Laritza Rodriguez, Sameer Antani, George R. Thoma, Clement J. McDonald.*<br>
  [[PDF](https://doi.org/10.1093/jamia/ocv080)] [[Url](https://openi.nlm.nih.gov/)]
 
