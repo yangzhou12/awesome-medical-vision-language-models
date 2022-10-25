@@ -170,7 +170,11 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **Image Classification with Consistent Supporting Evidence.** [Dec., 2021] [ML4H 2021].<br>
 *Peiqi Wang, Ruizhi Liao, Daniel Moyer, Seth Berkowitz, Steven Horng, Polina Golland.*<br>
  [[PDF](https://arxiv.org/abs/2111.07048)] 
- 
+
+   **Explaining Chest X-ray Pathologies in Natural Language.** [Jul., 2022] [MICAI, 2022].<br>
+*Maxime Kayser, Cornelius Emde, Oana-Maria Camburu, Guy Parsons, Bartlomiej Papiez, Thomas Lukasiewicz.*<br>
+ [[PDF](https://arxiv.org/abs/2207.04343)] [[Github](https://github.com/maximek3/MIMIC-NLE)] 
+
    **Improving Radiology Report Generation Systems by Removing Hallucinated References to Non-existent Priors.** [Oct., 2022].<br>
 *Vignav Ramesh, Nathan Andrew Chi, Pranav Rajpurkar.*<br>
  [[PDF](https://arxiv.org/abs/2210.06340)] 
@@ -196,3 +200,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **RadGraph: Extracting Clinical Entities and Relations from Radiology Reports.** [Jun, 2021] [NeurIPS 2021].<br>
 *Saahil Jain, Ashwin Agrawal, Adriel Saporta, Steven QH Truong, Du Nguyen Duong, Tan Bui, Pierre Chambon, Yuhao Zhang, Matthew P. Lungren, Andrew Y. Ng, Curtis P. Langlotz, Pranav Rajpurkar.*<br>
  [[PDF](https://arxiv.org/abs/2106.14463)] [[Url](https://physionet.org/content/radgraph/1.0.0/)]
+ 
+   **Chest ImaGenome Dataset for Clinical Reasoning.** [Jul, 2021].<br>
+*Joy T. Wu, Nkechinyere N. Agu, Ismini Lourentzou, Arjun Sharma, Joseph A. Paguio, Jasper S. Yao, Edward C. Dee, William Mitchell, Satyananda Kashyap, Andrea Giovannini, Leo A. Celi, Mehdi Moradi.*<br>
+ [[PDF](https://arxiv.org/abs/2108.00316)] [[Url](https://doi.org/10.13026/wv01-y230)]
