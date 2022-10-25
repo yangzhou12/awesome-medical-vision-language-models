@@ -223,6 +223,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **Explaining Chest X-ray Pathologies in Natural Language.** [Jul., 2022] [MICAI, 2022].<br>
 *Maxime Kayser, Cornelius Emde, Oana-Maria Camburu, Guy Parsons, Bartlomiej Papiez, Thomas Lukasiewicz.*<br>
  [[PDF](https://arxiv.org/abs/2207.04343)] [[Github](https://github.com/maximek3/MIMIC-NLE)] 
+ 
+   **The Ability of Image-Language Explainable Models to Resemble Domain Expertise.** [Sep., 2022].<br>
+*Petrus Werner, Anna Zapaishchykova, Ujjwal Ratan.*<br>
+ [[PDF](https://arxiv.org/abs/2209.09310)] 
 
    **Improving Radiology Report Generation Systems by Removing Hallucinated References to Non-existent Priors.** [Oct., 2022].<br>
 *Vignav Ramesh, Nathan Andrew Chi, Pranav Rajpurkar.*<br>
