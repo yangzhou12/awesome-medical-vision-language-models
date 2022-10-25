@@ -54,9 +54,15 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Sangjoon Park, Eun Sun Lee, Jeong Eun Lee, Jong Chul Ye.*<br>
  [[PDF](https://arxiv.org/abs/2208.05140)]
  
+  **Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training.** [Sep., 2022] [MICAI 2022].<br>
+*Zhihong Chen, Yuhao Du, Jinpeng Hu, Yang Liu, Guanbin Li, Xiang Wan, Tsung-Hui Chang.*<br>
+ [[PDF](https://arxiv.org/abs/2209.07098)] [[Github](https://github.com/zhjohnchan/M3AE)]
+ 
   **Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge.** [Sep., 2022] [ACM MM 2022].<br>
 *Zhihong Chen, Guanbin Li, Xiang Wan.*<br>
- [[PDF](https://arxiv.org/abs/2209.07118)]
+ [[PDF](https://arxiv.org/abs/2209.07118)] [[Github](https://github.com/zhjohnchan/ARL)]
+
+
 
 # Vision-Language Models for Healthcare
 
