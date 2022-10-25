@@ -46,7 +46,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Jong Hak Moon, Hyungyung Lee, Woncheol Shin, Young-Hak Kim, Edward Choi.*<br>
  [[PDF](https://arxiv.org/abs/2105.11333)] [[Github](https://github.com/SuperSupermoon/MedViLL)]
  
-  **Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports.** [Oct., 2021] [Nature Machine Learning 2022].<br>
+  **Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports.** [Oct., 2021] [Nature Machine Learning, 2022].<br>
 *Hong-Yu Zhou, Xiaoyu Chen, Yinghao Zhang, Ruibang Luo, Liansheng Wang, Yizhou Yu.*<br>
  [[PDF](https://www.nature.com/articles/s42256-021-00425-9)] [[Github](https://github.com/funnyzhou/refers)]
 
@@ -176,7 +176,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 ## Medical Image Segmentation
 
-   **Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing.** [Apr., 2022] [ECCV 2022].<br>
+   **Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing.** [Apr., 2022] [ECCV, 2022].<br>
 *Benedikt Boecking, Naoto Usuyama, Shruthi Bannur, Daniel C. Castro, Anton Schwaighofer, Stephanie Hyland, Maria Wetscherek, Tristan Naumann, Aditya Nori, Javier Alvarez-Valle, Hoifung Poon, Ozan Oktay.*<br>
  [[PDF](https://arxiv.org/abs/2204.09817)] [[Toolbox](https://hi-ml.readthedocs.io/en/latest/multimodal.html)] [[Dataset](https://www.physionet.org/content/ms-cxr/0.1/)]
 
