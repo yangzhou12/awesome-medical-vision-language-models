@@ -12,7 +12,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 ## Overview
 - [Survey Papers](#survey)
-- [General Vision-Language Models](#general-vision-language-models)
+<!-- - [General Vision-Language Models](#general-vision-language-models) -->
 - [Medical Vision-Language Pre-Training](#medical-vision-language-pre-training)
 - [Vision-Language Models for Healthcare](#vision-language-models-for-healthcare)
 - [Datasets](#datasets)
@@ -24,11 +24,11 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Lars HeiligerLars Heiliger, Anjany Sekuboyina, Bjoern Menze, Jan EggerJan Egger, Jens Kleesiek.*<br>
 [[PDF](https://www.researchgate.net/profile/Jan-Egger-2/publication/358581125_Beyond_Medical_Imaging_A_Review_of_Multimodal_Deep_Learning_in_Radiology/links/620a1e5a7b05f82592ea5bda/Beyond-Medical-Imaging-A-Review-of-Multimodal-Deep-Learning-in-Radiology.pdf)] 
 
-# General Vision-Language Models
+<!-- # General Vision-Language Models
 
 **Application of Transformer in Medical Image Segmentation.** [25th Oct., 2021].<br>
 *Wenyin Zhang, Weijie Hao, Yuan Qi and Yong Wu.*<br>
- [[PDF](https://biomedgrid.com/pdf/AJBSR.MS.ID.002014.pdf)] 
+ [[PDF](https://biomedgrid.com/pdf/AJBSR.MS.ID.002014.pdf)]  -->
 
 # Medical Vision-Language Pre-Training
 
