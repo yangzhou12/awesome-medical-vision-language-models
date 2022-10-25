@@ -219,11 +219,11 @@ A curated list of awesome resources in medical vision-language models (**in chro
  [[PDF](https://proceedings.mlr.press/v158/endo21a.html)] [[Github](https://github.com/rajpurkarlab/CXR-RePaiR)]
  
    **Knowledge matters: Chest radiology report generation with general and specific knowledge.** [Dec., 2021] [MIA, 2022].<br>
-*Shuxin Yang, Xian Wu, Shen Ge, S Kevin Zhou, Li Xiao.*<br>
+*Shuxin Yang, Xian Wu, Shen Ge, S. Kevin Zhou, Li Xiao.*<br>
  [[PDF](https://arxiv.org/abs/2112.15009)] 
 
    **Radiology Report Generation with a Learned Knowledge Base and Multi-modal Alignment.** [Dec., 2021].<br>
-*Shuxin Yang, Xian Wu, Shen Ge, S.Kevin Zhou, Li Xiao.*<br>
+*Shuxin Yang, Xian Wu, Shen Ge, S. Kevin Zhou, Li Xiao.*<br>
  [[PDF](https://arxiv.org/abs/2112.15011)]
  
    **Improving Chest X-Ray Report Generation by Leveraging Warm-Starting.** [Jan., 2022].<br>
