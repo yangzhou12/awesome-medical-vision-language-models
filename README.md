@@ -8,6 +8,8 @@
 
 A curated list of awesome resources in medical vision-language models (**in chronological order**), inspired by the other awesome-initiatives. 
 
+[Another awesome list of vision-language pre-training](https://github.com/zhjohnchan/awesome-vision-and-language-pretraining)
+
 <!-- We intend to regularly update the relevant latest papers and their open-source implementations on this page. If you find some overlooked papers, please open an issue or contact at fahad.shamshad3@gmail.com. -->
 
 ## Overview
@@ -43,14 +45,26 @@ A curated list of awesome resources in medical vision-language models (**in chro
   **Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training.** [May, 2021] [JBHI 2022].<br>
 *Jong Hak Moon, Hyungyung Lee, Woncheol Shin, Young-Hak Kim, Edward Choi.*<br>
  [[PDF](https://arxiv.org/abs/2105.11333)] [[Github](https://github.com/SuperSupermoon/MedViLL)]
+
+  **Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation.** [Jun, 2022] [AAAI 2022].<br>
+*Bin Yan, Mingtao Pei.*<br>
+ [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20204)] 
+
+  **Vision-Language Pretraining Enables Radiographs and Reports to be Learned without Curation.** [Aug., 2022].<br>
+*Sangjoon Park, Eun Sun Lee, Jeong Eun Lee, Jong Chul Ye.*<br>
+ [[PDF](https://arxiv.org/abs/2208.05140)]
  
+  **Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge.** [Sep., 2022] [ACM MM 2022].<br>
+*Zhihong Chen, Guanbin Li, Xiang Wan.*<br>
+ [[PDF](https://arxiv.org/abs/2209.07118)]
+
 # Vision-Language Models for Healthcare
 
 ## Classification
 
-  **Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [20th Nov., 2020] [BIBM, 2020].<br>
-*Tim Prangemeier, Christoph Reich, Heinz Koeppl.*<br>
- [[PDF](https://arxiv.org/abs/2011.09763)] [[Github](https://github.com/ChristophReich1996/Cell-DETR)]
+   **BERTHop: An Effective Vision-and-Language Model for Chest X-ray Disease Diagnosis.** [Aug., 2021] [ICCV Workshop 2021].<br>
+*Masoud Monajatipoor, Mozhdeh Rouhsedaghat, Liunian Harold Li, Aichi Chien, C.-C. Jay Kuo, Fabien Scalzo, Kai-Wei Chang.*<br>
+ [[PDF](https://arxiv.org/abs/2108.04938)] 
  
 ## Medical Vision Question Answering
 
@@ -61,6 +75,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **AMAM: An Attention-based Multimodal Alignment Model for Medical Visual Question Answering.** [Sep, 2022] [KBS, 2022].<br>
 *Haiwei Pan, Shuning He, Kejia Zhang, Bo Qu, Chunling Chen, Kun Shi.*<br>
  [[PDF](https://doi.org/10.1016/j.knosys.2022.109763)] 
+ 
+   **MuVAM: A Multi-View Attention-based Model for Medical Visual Question Answering.** [Jul, 2021].<br>
+*Haiwei Pan, Shuning He, Kejia Zhang, Bo Qu, Chunling Chen, Kun Shi.*<br>
+ [[PDF](https://arxiv.org/abs/2107.03216)] 
 
 ## Medical Object Locolization
 
@@ -69,6 +87,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
  [[PDF](https://arxiv.org/abs/2007.15778)] 
  
 ## Medical Image Segmentation
+
+   **LViT: Language meets Vision Transformer in Medical Image Segmentation.** [Jun., 2022].<br>
+*Zihan Li, Yunxiang Li, Qingde Li, Puyang Wang, You Zhang, Dazhou Guo, Le Lu, Dakai Jin, Qingqi Hong.*<br>
+ [[PDF](https://arxiv.org/abs/2206.14718)] [[Github](https://github.com/HUANGLIZI/LViT)]
 
 ## Clinical Report Generation
 
