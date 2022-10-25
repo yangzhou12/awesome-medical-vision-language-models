@@ -285,6 +285,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Yuyin Zhou, Shih-Cheng Huang, Jason Alan Fries, Alaa Youssef, Timothy J. Amrhein, Marcello Chang, Imon Banerjee, Daniel Rubin, Lei Xing, Nigam Shah, Matthew P. Lungren.*<br>
  [[PDF](https://arxiv.org/abs/2111.11665)] [[Url](https://stanfordaimi.azurewebsites.net/datasets/3a7548a4-8f65-4ab7-85fa-3d68c9efc1bd)]
  
+   **Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing.** [Apr., 2022] [ECCV 2022].<br>
+*Benedikt Boecking, Naoto Usuyama, Shruthi Bannur, Daniel C. Castro, Anton Schwaighofer, Stephanie Hyland, Maria Wetscherek, Tristan Naumann, Aditya Nori, Javier Alvarez-Valle, Hoifung Poon, Ozan Oktay.*<br>
+ [[PDF](https://arxiv.org/abs/2204.09817)] [[Toolbox](https://hi-ml.readthedocs.io/en/latest/multimodal.html)] [[Url](https://www.physionet.org/content/ms-cxr/0.1/)]
+ 
    **DrugEHRQA: A Question Answering Dataset on Structured and Unstructured Electronic Health Records For Medicine Related Queries.** [May, 2022].<br>
 *Jayetri Bardhan, Anthony Colas, Kirk Roberts, Daisy Zhe Wang.*<br>
  [[PDF](https://arxiv.org/abs/2205.01290)] [[Url](https://physionet.org/content/drugehrqa/1.0.0/)]
