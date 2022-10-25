@@ -46,6 +46,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
  
 ## Medical Vision Question Answering
 
+   **A Comparison of Pre-trained Vision-and-Language Models for Multimodal Representation Learning across Medical Images and Reports.** [Sep, 2020].<br>
+*Yikuan Li, Hanyin Wang, Yuan Luo.*<br>
+ [[PDF](https://arxiv.org/abs/2009.01523)] [[Github](https://github.com/YIKUAN8/Transformers-VQA)]
+
 ## Medical Object Locolization
 
    **Weakly supervised one-stage vision and language disease detection using large scale pneumonia and pneumothorax studies.** [Jul, 2020] [MICAI, 2020].<br>
