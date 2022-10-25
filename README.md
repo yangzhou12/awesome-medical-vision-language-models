@@ -181,6 +181,22 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 ## Clinical Report Generation
 
+   **Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation.** [Jun., 2021] [CVPR, 2021].<br>
+*Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou.*<br>
+ [[PDF](https://arxiv.org/abs/2106.06963)] 
+ 
+   **Contrastive Attention for Automatic Chest X-ray Report Generation.** [Jun., 2021] [Findings of ACL, 2021].<br>
+*Xuewei Ma, Fenglin Liu, Changchang Yin, Xian Wu, Shen Ge, Yuexian Zou, Ping Zhang, Xu Sun.*<br>
+ [[PDF](https://arxiv.org/abs/2106.06963)] 
+
+   **Competence-based Multimodal Curriculum Learning for Medical Report Generation.** [Aug., 2021] [ACL Oral, 2021].<br>
+*Fenglin Liu, Shen Ge, Xian Wu.*<br>
+ [[PDF](https://arxiv.org/abs/2206.14579)] 
+ 
+   **AlignTransformer: Hierarchical Alignment of Visual Regions and Disease Tags for Medical Report Generation.** [Sep., 2021] [MICAI, 2021].<br>
+*Di You, Fenglin Liu, Shen Ge, Xiaoxia Xie, Jing Zhang, Xian Wu.*<br>
+ [[PDF](https://arxiv.org/abs/2203.10095)] 
+
    **Auto-Encoding Knowledge Graph for Unsupervised Medical Report Generation.** [Nov., 2021] [NeurIPS, 2021].<br>
 *Fenglin Liu, Chenyu You, Xian Wu, Shen Ge, Sheng Wang, Xu Sun.*<br>
  [[PDF](https://arxiv.org/abs/2111.04318)] 
@@ -204,10 +220,26 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **Few-shot Structured Radiology Report Generation Using Natural Language Prompts.** [Mar., 2022].<br>
 *Matthias Keicher, Kamilia Mullakaeva, Tobias Czempiel, Kristina Mach, Ashkan Khakzar, Nassir Navab.*<br>
  [[PDF](https://arxiv.org/abs/2203.15723)] 
+ 
+   **A Medical Semantic-Assisted Transformer for Radiographic Report Generation.** [Aug., 2022] [MICAI, 2022].<br>
+*Zhanyu Wang, Mingkang Tang, Lei Wang, Xiu Li, Luping Zhou.*<br>
+ [[PDF](https://arxiv.org/abs/2208.10358)] 
 
    **RepsNet: Combining Vision with Language for Automated Medical Reports.** [Sep., 2022] [MICAI, 2022].<br>
 *Ajay Kumar Tanwani, Joelle Barral, Daniel Freedman.*<br>
  [[PDF](https://arxiv.org/abs/2209.13171)] 
+ 
+   **TranSQ: Transformer-Based Semantic Query for Medical Report Generation.** [Sep., 2022] [MICAI, 2022].<br>
+*Ming Kong, Zhengxing Huang, Kun Kuang, Qiang Zhu, Fei Wu .*<br>
+ [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_58)] [[Github](https://github.com/zjukongming/TranSQ)]
+ 
+   **JPG - Jointly Learn to Align: Automated Disease Prediction and Radiology Report Generation.** [Oct., 2022] [COLING, 2022].<br>
+*Jingyi You, Dongyuan Li, Manabu Okumura, Kenji Suzuki.*<br>
+ [[PDF](https://aclanthology.org/2022.coling-1.523/)] 
+
+   **Improving Radiology Summarization with Radiograph and Anatomy Prompts.** [Oct., 2022].<br>
+*Jinpeng Hu, Zhihong Chen, Yang Liu, Xiang Wan, Tsung-Hui Chang.*<br>
+ [[PDF](https://arxiv.org/abs/2210.08303)] 
 
 # Explaination, Bias, Noise, and Robustness
 
