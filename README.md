@@ -40,7 +40,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
   **Self-supervised Image-text Pre-training With Mixed Data In Chest X-rays.** [Mar., 2021].<br>
 *Xiaosong Wang, Ziyue Xu, Leo Tam, Dong Yang, Daguang Xu.*<br>
- [[PDF](https://arxiv.org/pdf/2103.16022)] 
+ [[PDF](https://arxiv.org/abs/2103.16022)] 
 
   **Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training.** [May, 2021] [JBHI, 2022].<br>
 *Jong Hak Moon, Hyungyung Lee, Woncheol Shin, Young-Hak Kim, Edward Choi.*<br>
