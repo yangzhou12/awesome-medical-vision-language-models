@@ -330,11 +330,15 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 # Datasets
 
-   **OpenI-CXR: Preparing a collection of radiology examinations for distribution and retrieval.** [Mar, 2016] [JAMIA, 2016].<br>
+   **Two public chest X-ray datasets for computer-aided screening of pulmonary diseases.** [Dec., 2014] [JAMIA, 2016].<br>
+*Stefan Jaeger, Sema Candemir, Sameer Antani, Yì-Xiáng J. Wáng, Pu-Xuan Lu, George Thoma.*<br>
+ [[PDF](https://doi.org/10.3978%2Fj.issn.2223-4292.2014.11.20)] [[Url](https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen)]
+
+   **OpenI-CXR: Preparing a collection of radiology examinations for distribution and retrieval.** [Mar., 2016] [JAMIA, 2016].<br>
 *Dina Demner-Fushman, Marc D. Kohli, Marc B. Rosenman, Sonya E. Shooshan, Laritza Rodriguez, Sameer Antani, George R. Thoma, Clement J. McDonald.*<br>
  [[PDF](https://doi.org/10.1093/jamia/ocv080)] [[Url](https://openi.nlm.nih.gov/)]
 
-   **ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases.** [May, 2017].<br>
+   **NIH ChestX-ray: ChestX-ray8 - Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases.** [May, 2017].<br>
 *Xiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, Mohammadhadi Bagheri, Ronald M. Summers.*<br>
  [[PDF](https://arxiv.org/abs/1705.02315)] [[Url](https://nihcc.app.box.com/v/ChestXray-NIHCC)]
 
@@ -353,6 +357,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **VQA-RAD: A database for using machine learning and data mining techniques for coronary artery disease diagnosis.** [Oct., 2019] [Scientific Data, 2019].<br>
 *R. Alizadehsani, M. Roshanzamir, M. Abdar, A. Beykikhoshk, A. Khosravi, M. Panahiazar, A. Koohestani, F. Khozeimeh, S. Nahavandi, N. Sarrafzadegan.*<br>
  [[PDF](https://www.nature.com/articles/s41597-019-0206-3)] [[Url](https://osf.io/89kps/)]
+ 
+   **COVID-19 Image Data Collection: Prospective Predictions Are the Future.** [Jun., 2020] [MELBA, 2020].<br>
+*Joseph Paul Cohen, Paul Morrison, Lan Dao, Karsten Roth, Tim Q Duong, Marzyeh Ghassemi.*<br>
+ [[PDF](https://arxiv.org/abs/2006.11988)] [[Github](https://github.com/ieee8023/covid-chestxray-dataset)]
 
    **MIMIC-CXR-annotations.** [Jul, 2020].<br>
 *Leo K. Tam, Xiaosong Wang, Evrim Turkbey, Kevin Lu, Yuhong Wen, Daguang Xu.*<br>
@@ -361,6 +369,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **MedICaT: A Dataset of Medical Images, Captions, and Textual References.** [Oct., 2020] [Findings of EMNLP, 2020].<br>
 *Sanjay Subramanian, Lucy Lu Wang, Sachin Mehta, Ben Bogin, Madeleine van Zuylen, Sravanthi Parasa, Sameer Singh, Matt Gardner, and Hannaneh Hajishirzi.*<br>
  [[PDF](https://arxiv.org/abs/2010.06000)] [[Github](https://github.com/allenai/medicat)]
+ 
+   **VinDr-CXR: An open dataset of chest X-rays with radiologist’s annotations.** [Dec., 2020] [Scientific Data, 2022].<br>
+*Ha Q. Nguyen, Khanh Lam, Linh T. Le, Hieu H. Pham, Dat Q. Tran, Dung B. Nguyen, Dung D. Le, Chi M. Pham, Hang T. T. Tong, Diep H. Dinh, Cuong D. Do, Luu T. Doan, Cuong N. Nguyen, Binh T. Nguyen, Que V. Nguyen, Au D. Hoang, Hien N. Phan, Anh T. Nguyen, Phuong H. Ho, Dat T. Ngo, Nghia T. Nguyen, Nhan T. Nguyen, Minh Dao, Van Vu.*<br>
+ [[PDF](https://www.nature.com/articles/s41597-022-01498-w)] [[Url](https://physionet.org/content/vindr-cxr/1.0.0/)]
 
    **RadGraph: Extracting Clinical Entities and Relations from Radiology Reports.** [Jun., 2021] [NeurIPS, 2021].<br>
 *Saahil Jain, Ashwin Agrawal, Adriel Saporta, Steven QH Truong, Du Nguyen Duong, Tan Bui, Pierre Chambon, Yuhao Zhang, Matthew P. Lungren, Andrew Y. Ng, Curtis P. Langlotz, Pranav Rajpurkar.*<br>
