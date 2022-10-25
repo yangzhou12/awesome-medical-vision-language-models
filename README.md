@@ -197,10 +197,14 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *O. Pelka, S. Koitka, J. Rückert, F. Nensa, C.M. Friedrich,.*<br>
  [[PDF](https://doi.org/10.1007/978-3-030-01364-6_20)] [[Github](https://github.com/razorx89/roco-dataset)]
 
+   **MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports.** [Jan., 2019] [Scientific Data, 2019].<br>
+*Alistair E. W. Johnson, Tom J. Pollard, Seth J. Berkowitz, Nathaniel R. Greenbaum, Matthew P. Lungren, Chih-ying Deng, Roger G. Mark, Steven Horng.*<br>
+ [[PDF](https://www.nature.com/articles/s41597-019-0322-0)] [[Url](https://physionet.org/content/mimic-cxr/2.0.0/)]
+
    **MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs.** [Jan., 2019].<br>
 *Alistair E. W. Johnson, Tom J. Pollard, Nathaniel R. Greenbaum, Matthew P. Lungren, Chih-ying Deng, Yifan Peng, Zhiyong Lu, Roger G. Mark, Seth J. Berkowitz, Steven Horng.*<br>
  [[PDF](https://arxiv.org/pdf/1901.07042.pdf)] [[Url](https://doi.org/10.13026/8360-t248)]
- 
+
    **MIMIC-CXR-annotations.** [Jul, 2020].<br>
 *Leo K. Tam, Xiaosong Wang, Evrim Turkbey, Kevin Lu, Yuhong Wen, Daguang Xu.*<br>
  [[PDF](https://arxiv.org/abs/2007.15778)] [[Github](https://github.com/leotam/MIMIC-CXR-annotations)]
