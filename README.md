@@ -96,7 +96,19 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **Weakly supervised one-stage vision and language disease detection using large scale pneumonia and pneumothorax studies.** [Jul., 2020] [MICAI, 2020].<br>
 *Leo K. Tam, Xiaosong Wang, Evrim Turkbey, Kevin Lu, Yuhong Wen, Daguang Xu.*<br>
  [[PDF](https://arxiv.org/abs/2007.15778)] 
+ 
+   **Anatomy-Guided Weakly-Supervised Abnormality Localization in Chest X-rays.** [Jun., 2022] [MICAI, 2022].<br>
+*Ke Yu, Shantanu Ghosh, Zhexiong Liu, Christopher Deible, Kayhan Batmanghelich.*<br>
+ [[PDF](https://arxiv.org/abs/2206.12704)] [[Github](https://github.com/batmanlab/AGXNet)] 
 
+   **Joint Learning of Localized Representations from Medical Images and Reports.** [Aug., 2022] [ECCV, 2022].<br>
+*Philip Müller, Georgios Kaissis, Congyu Zou, Daniel Rueckert.*<br>
+ [[PDF](https://arxiv.org/abs/2112.02889)] [[Github](https://github.com/philip-mueller/lovt)] 
+
+   **Radiological Reports Improve Pre-training for Localized Imaging Tasks on Chest X-Rays.** [Sep., 2022] [MICAI, 2022].<br>
+*Philip Müller, Georgios Kaissis, Congyu Zou, Daniel Rueckert.*<br>
+ [[PDF](https://doi.org/10.1007/978-3-031-16443-9_62)]
+ 
    **Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains.** [Oct., 2022].<br>
 *Pierre Chambon, Christian Bluethgen, Curtis P. Langlotz, Akshay Chaudhari.*<br>
  [[PDF](https://arxiv.org/abs/2210.04133)] 
@@ -109,21 +121,49 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 ## Clinical Report Generation
 
-   **Retrieval-Based Chest X-Ray Report Generation Using a Pre-trained Contrastive Language-Image Model.** [Nov., 2021] [ML4H 2021].<br>
-*Mark Endo, Rayan Krishnan, Viswesh Krishna, Andrew Y. Ng, Pranav Rajpurkar.*<br>
- [[PDF](https://proceedings.mlr.press/v158/endo21a.html)] [[Github](https://github.com/rajpurkarlab/CXR-RePaiR)]
-
    **Auto-Encoding Knowledge Graph for Unsupervised Medical Report Generation.** [Nov., 2021] [NeurIPS 2021].<br>
 *Fenglin Liu, Chenyu You, Xian Wu, Shen Ge, Sheng Wang, Xu Sun.*<br>
  [[PDF](https://arxiv.org/abs/2111.04318)] 
- 
+
+   **ChestXRayBERT: A Pretrained Language Model for Chest Radiology Report Summarization.** [Dec., 2021] [TMM 2021].<br>
+*Xiaoyan Cai, Sen Liu, Junwei Han, Libin Yang, Zhenguo Liu, Tianming Liu.*<br>
+ [[PDF](https://doi.org/10.1109/TMM.2021.3132724)]
+
+   **Retrieval-Based Chest X-Ray Report Generation Using a Pre-trained Contrastive Language-Image Model.** [Dec., 2021] [ML4H 2021].<br>
+*Mark Endo, Rayan Krishnan, Viswesh Krishna, Andrew Y. Ng, Pranav Rajpurkar.*<br>
+ [[PDF](https://proceedings.mlr.press/v158/endo21a.html)] [[Github](https://github.com/rajpurkarlab/CXR-RePaiR)]
+
    **RepsNet: Combining Vision with Language for Automated Medical Reports.** [Sep., 2022] [MICAI 2022].<br>
 *Ajay Kumar Tanwani, Joelle Barral, Daniel Freedman.*<br>
  [[PDF](https://arxiv.org/abs/2209.13171)] 
 
-# Explaination, Bias, and Robustness
+# Explaination, Bias, Noise, and Robustness
+
+   **CheXpert++: Approximating the CheXpert labeler for Speed,Differentiability, and Probabilistic Output.** [Jun., 2020] [ML4H 2020].<br>
+*Matthew B. A. McDermott, Tzu Ming Harry Hsu, Wei-Hung Weng, Marzyeh Ghassemi, Peter Szolovits.*<br>
+ [[PDF](https://arxiv.org/abs/2006.15229)] [[Github](https://github.com/mmcdermott/chexpertplusplus)] 
+
+   **VisualCheXbert: Addressing the discrepancy between radiology report labels and image labels.** [Apr., 2021] [CHIL 2021].<br>
+*Saahil Jain, Akshay Smit, Steven QH Truong, Chanh DT Nguyen, Minh-Thanh Huynh, Mudit Jain, Victoria A. Young, Andrew Y. Ng, Matthew P. Lungren, Pranav Rajpurkar.*<br>
+ [[PDF](https://arxiv.org/abs/2102.11467)] [[Github](https://github.com/stanfordmlgroup/VisualCheXbert)] 
+ 
+   **Effect of Radiology Report Labeler Quality on Deep Learning Models for Chest X-Ray Interpretation.** [Nov., 2021] [NeurIPS Workshop 2021].<br>
+*Saahil Jain, Akshay Smit, Andrew Y. Ng, Pranav Rajpurkar.*<br>
+ [[PDF](https://arxiv.org/abs/2104.00793)]
+
+   **Image Classification with Consistent Supporting Evidence.** [Dec., 2021] [ML4H 2021].<br>
+*Peiqi Wang, Ruizhi Liao, Daniel Moyer, Seth Berkowitz, Steven Horng, Polina Golland.*<br>
+ [[PDF](https://arxiv.org/abs/2111.07048)] 
+ 
+   **Improving Radiology Report Generation Systems by Removing Hallucinated References to Non-existent Priors.** [Oct., 2022].<br>
+*Vignav Ramesh, Nathan Andrew Chi, Pranav Rajpurkar.*<br>
+ [[PDF](https://arxiv.org/abs/2210.06340)] 
 
 # Datasets
+
+   **ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases.** [May, 2017].<br>
+*Xiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, Mohammadhadi Bagheri, Ronald M. Summers.*<br>
+ [[PDF](https://arxiv.org/abs/1705.02315)] [[Url](https://nihcc.app.box.com/v/ChestXray-NIHCC)]
 
    **MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs.** [Jan., 2019].<br>
 *Alistair E. W. Johnson, Tom J. Pollard, Nathaniel R. Greenbaum, Matthew P. Lungren, Chih-ying Deng, Yifan Peng, Zhiyong Lu, Roger G. Mark, Seth J. Berkowitz, Steven Horng.*<br>
