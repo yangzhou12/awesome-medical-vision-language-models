@@ -95,11 +95,11 @@ A curated list of awesome resources in medical vision-language models (**in chro
  [[PDF](https://doi.org/10.1007/978-3-030-87589-3_12)] [[Github](https://github.com/mshaikh2/JoImTeR_MLMI_2021)]  
  
    **GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-efficient Medical Image Recognition.** [Oct., 2021] [ICCV, 2021].<br>
-*Masoud Monajatipoor, Mozhdeh Rouhsedaghat, Liunian Harold Li, Aichi Chien, C.-C. Jay Kuo, Fabien Scalzo, Kai-Wei Chang.*<br>
+*Shih-Cheng Huang, Liyue Shen, Matthew P. Lungren, Serena Yeung.*<br>
  [[PDF](https://doi.org/10.1109/ICCV48922.2021.00391)] [[Github](https://github.com/marshuang80/gloria)]  
  
    **ContIG: Self-supervised Multimodal Contrastive Learning for Medical Imaging with Genetics.** [Nov., 2021] [CVPR, 2022].<br>
-*Masoud Monajatipoor, Mozhdeh Rouhsedaghat, Liunian Harold Li, Aichi Chien, C.-C. Jay Kuo, Fabien Scalzo, Kai-Wei Chang.*<br>
+*Aiham Taleb, Matthias Kirchler, Remo Monti, Christoph Lippert.*<br>
  [[PDF](https://arxiv.org/abs/2111.13424)] [[Github](https://github.com/HealthML/ContIG)] 
 
    **Breaking with Fixed Set Pathology Recognition through Report-Guided Contrastive Training.** [May, 2022] [MICAI, 2022].<br>
