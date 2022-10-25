@@ -18,7 +18,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 - [Vision-Language Models for Healthcare](#vision-language-models-for-healthcare)
     - [Classification](#classification)
     - [Medical Vision Question Answering](#medical-vision-question-answering)
-    - [Medical Object Locolization and Anomaly Detection](#classification)
+    - [Medical Object Locolization and Anomaly Detection](#medical-object-locolization-and-anomaly-detection)
     - [Medical Image Segmentation](#classification)
     - [Medical Report Generation](#classification)
 - [Explaination, Bias, Noise, and Robustness](#explaination-bias-noise-and-robustness)
