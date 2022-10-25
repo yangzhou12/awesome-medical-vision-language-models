@@ -22,9 +22,11 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 # Survey
 
-[**Transformers in Medical Imaging: A survey.**](https://arxiv.org/abs/2201.09873) [25th Jan., 2022] <br>.
-*[Fahad Shamshad](https://scholar.google.com.pk/citations?user=d7QL4wkAAAAJ&hl=en), [Salman Khan](https://salman-h-khan.github.io/), [Syed Waqas Zamir](https://scholar.google.es/citations?user=WNGPkVQAAAAJ&hl=en), [Muhammad Haris Khan](https://scholar.google.com/citations?user=ZgERfFwAAAAJ&hl=en), [Munawar Hayat](https://scholar.google.com/citations?user=Mx8MbWYAAAAJ&hl=en), [Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en), and [Huazhu Fu](https://hzfu.github.io/).*<br>
-[[PDF](https://arxiv.org/abs/2201.09873)] 
+[**Beyond Medical Imaging - A Review of Multimodal Deep Learning in Radiology.**]([https://arxiv.org/abs/2201.09873](https://www.researchgate.net/profile/Jan-Egger-2/publication/358581125_Beyond_Medical_Imaging_A_Review_of_Multimodal_Deep_Learning_in_Radiology/links/620a1e5a7b05f82592ea5bda/Beyond-Medical-Imaging-A-Review-of-Multimodal-Deep-Learning-in-Radiology.pdf)) [April, 2022] <br>.
+*Lars HeiligerLars Heiliger, Anjany Sekuboyina, Bjoern Menze, Jan EggerJan Egger, Jens Kleesiek.*<br>
+[[PDF]([https://arxiv.org/abs/2201.09873](https://arxiv.org/abs/2201.09873](https://www.researchgate.net/profile/Jan-Egger-2/publication/358581125_Beyond_Medical_Imaging_A_Review_of_Multimodal_Deep_Learning_in_Radiology/links/620a1e5a7b05f82592ea5bda/Beyond-Medical-Imaging-A-Review-of-Multimodal-Deep-Learning-in-Radiology.pdf))] 
+
+
 
 **Medical image analysis based on transformer: A Review.** [13th Aug., 2022].<br>
 *Zhaoshan Liu, Lei Shen.*<br>
