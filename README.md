@@ -36,7 +36,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Xiaosong Wang, Ziyue Xu, Leo Tam, Dong Yang, Daguang Xu.*<br>
  [[PDF](https://arxiv.org/pdf/2103.16022)] 
  
- **MMBERT: Multimodal BERT Pretraining for Improved Medical VQA.** (short) [Apr., 2021].<br>
+ **MMBERT: Multimodal BERT Pretraining for Improved Medical VQA.** (Short Paper) [Apr., 2021].<br>
 *Yash Khare, Viraj Bagal, Minesh Mathew, Adithi Devi, U Deva Priyakumar, CV Jawahar.*<br>
  [[PDF](https://arxiv.org/abs/2104.01394)] [[Github](https://github.com/VirajBagal/MMBERT)]
 
