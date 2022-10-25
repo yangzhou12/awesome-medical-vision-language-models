@@ -22,7 +22,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 # Survey
 
-**Beyond Medical Imaging - A Review of Multimodal Deep Learning in Radiology.** <br>.
+**Beyond Medical Imaging - A Review of Multimodal Deep Learning in Radiology.** [April, 2022].<br>
 *Lars HeiligerLars Heiliger, Anjany Sekuboyina, Bjoern Menze, Jan EggerJan Egger, Jens Kleesiek.*<br>
 [[PDF](https://www.researchgate.net/profile/Jan-Egger-2/publication/358581125_Beyond_Medical_Imaging_A_Review_of_Multimodal_Deep_Learning_in_Radiology/links/620a1e5a7b05f82592ea5bda/Beyond-Medical-Imaging-A-Review-of-Multimodal-Deep-Learning-in-Radiology.pdf))] 
 
