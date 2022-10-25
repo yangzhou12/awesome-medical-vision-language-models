@@ -32,9 +32,9 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 # Medical Vision-Language Pre-Training
 
-**Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [20th Nov., 2020] [BIBM, 2020].<br>
-*Tim Prangemeier, Christoph Reich, Heinz Koeppl.*<br>
- [[PDF](https://arxiv.org/abs/2011.09763)] [[Github](https://github.com/ChristophReich1996/Cell-DETR)]
+**Self-supervised Image-text Pre-training With Mixed Data In Chest X-rays.** [Mar., 2021] [BIBM, 2020].<br>
+*Xiaosong Wang, Ziyue Xu, Leo Tam, Dong Yang, Daguang Xu.*<br>
+ [[PDF](https://arxiv.org/pdf/2103.16022)] [[Github](https://github.com/ChristophReich1996/Cell-DETR)]
  
 # Vision-Language Models for Healthcare
 
@@ -46,7 +46,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
  
 ## Medical Vision Question Answering
 
-   **A Comparison of Pre-trained Vision-and-Language Models for Multimodal Representation Learning across Medical Images and Reports.** [Sep, 2020].<br>
+   **A Comparison of Pre-trained Vision-and-Language Models for Multimodal Representation Learning across Medical Images and Reports.** [Sep, 2020] [BIBM, 2020].<br>
 *Yikuan Li, Hanyin Wang, Yuan Luo.*<br>
  [[PDF](https://arxiv.org/abs/2009.01523)] [[Github](https://github.com/YIKUAN8/Transformers-VQA)]
 
@@ -59,35 +59,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 ## Medical Image Segmentation
 
 ## Clinical Report Generation
- 
-## Medical Object Locolization
 
-
-
-# Medical Image Segmentation
-
-   **UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation.** [1st April, 2022].<br>
-*Ali Hatamizadeh, Ziyue Xu, Dong Yang, Wenqi Li, Holger Roth, Daguang Xu.*<br>
- [[PDF](https://arxiv.org/abs/2204.00631)] [[Github](https://github.com/Project-MONAI/research-contributions)]
- 
-# Clinical-Report-Generation
-
-   **Reinforced Transformer for Medical Image Captioning.** [10th Oct., 2019].[MLMI, 2019]<br>
-*Yuxuan Xiong, Bo Du, Pingkun Yan.*<br>
- [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-32692-0_77)] 
-
-   **Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation.** [20th Oct., 2020].[NAACL, 2020]<br>
-*Yasuhide Miura, Yuhao Zhang, Emily Bao Tsai, Curtis P. Langlotz, Dan Jurafsky.*<br>
- [[PDF](https://arxiv.org/abs/2010.10042)] [[Github](https://github.com/ysmiura/ifcc)]
-
-   **Generating Radiology Reports via Memory-driven Transformer.** [30th Oct., 2020].[EMNLP, 2020]<br>
-*Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan.*<br>
- [[PDF](https://arxiv.org/abs/2010.16056)] [[Github](https://github.com/cuhksz-nlp/R2Gen)]
- 
-   **Hierarchical X-Ray Report Generation via Pathology tags and Multi Head Attention.** [30th Nov., 2020].[EMNLP, 2020]<br>
-*Preethi Srinivasan, Daksh Thapar, Arnav Bhavsar, Aditya Nigam.*<br>
- [[PDF](https://openaccess.thecvf.com/content/ACCV2020/html/Srinivasan_Hierarchical_X-Ray_Report_Generation_via_Pathology_tags_and_Multi_Head_ACCV_2020_paper.html)]
- 
 
 # Datasets
 
