@@ -15,7 +15,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 - [General Vision-Language Models](#general-vision-language-models)
 - [Medical Vision-Language Pre-Training](#medical-vision-language-pre-training)
 - [Medical Image Classification/Retrival](#medical-image-classificationretrival)
-- [Medical Image Segmentation](#medical-image-segmentation)
+- [Medical Object Localization](#medical-object-locolization)
 - [Clinical Report Generation](#clinical-report-generation)
 - [Datasets](#datasets)
 <!-- - [Medical Image Reconstruction](#reconstruction) -->
