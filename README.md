@@ -43,6 +43,13 @@ A curated list of awesome resources in medical vision-language models (**in chro
 **Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [20th Nov., 2020] [BIBM, 2020].<br>
 *Tim Prangemeier, Christoph Reich, Heinz Koeppl.*<br>
  [[PDF](https://arxiv.org/abs/2011.09763)] [[Github](https://github.com/ChristophReich1996/Cell-DETR)]
+ 
+# Medical Object Locolization
+
+   **Weakly supervised one-stage vision and language disease detection using large scale pneumonia and pneumothorax studies.** [Jul, 2020] [MICAI, 2020].<br>
+*Leo K. Tam, Xiaosong Wang, Evrim Turkbey, Kevin Lu, Yuhong Wen, Daguang Xu.*<br>
+ [[PDF](https://arxiv.org/abs/2007.15778)] 
+
 
 # Medical Image Segmentation
 
@@ -75,6 +82,11 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Alistair E. W. Johnson, Tom J. Pollard, Nathaniel R. Greenbaum, Matthew P. Lungren, Chih-ying Deng, Yifan Peng, Zhiyong Lu, Roger G. Mark, Seth J. Berkowitz, Steven Horng.*<br>
  [[PDF](https://arxiv.org/pdf/1901.07042.pdf)] [[Url](https://doi.org/10.13026/8360-t248)]
  
+
+   **MIMIC-CXR-annotations.** [Jul, 2020].<br>
+*Leo K. Tam, Xiaosong Wang, Evrim Turkbey, Kevin Lu, Yuhong Wen, Daguang Xu.*<br>
+ [[PDF](https://arxiv.org/abs/2007.15778)] [[Github](https://github.com/leotam/MIMIC-CXR-annotations)]
+
 
 <!-- # Citation
 
