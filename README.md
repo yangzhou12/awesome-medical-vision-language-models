@@ -40,6 +40,9 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Yash Khare, Viraj Bagal, Minesh Mathew, Adithi Devi, U Deva Priyakumar, CV Jawahar.*<br>
  [[PDF](https://arxiv.org/abs/2104.01394)] [[Github](https://github.com/VirajBagal/MMBERT)]
 
+  **Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training.** [May, 2021] [JBHI 2022].<br>
+*Jong Hak Moon, Hyungyung Lee, Woncheol Shin, Young-Hak Kim, Edward Choi.*<br>
+ [[PDF](https://arxiv.org/abs/2105.11333)] [[Github](https://github.com/SuperSupermoon/MedViLL)]
  
 # Vision-Language Models for Healthcare
 
