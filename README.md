@@ -84,7 +84,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Leo K. Tam, Xiaosong Wang, Evrim Turkbey, Kevin Lu, Yuhong Wen, Daguang Xu.*<br>
  [[PDF](https://arxiv.org/abs/2007.15778)] [[Github](https://github.com/leotam/MIMIC-CXR-annotations)]
 
-   **RadGraph: Extracting Clinical Entities and Relations from Radiology Reports.** [Jun, 2021].<br>
+   **RadGraph: Extracting Clinical Entities and Relations from Radiology Reports.** [Jun, 2021] [NeurIPS 2021].<br>
 *Saahil Jain, Ashwin Agrawal, Adriel Saporta, Steven QH Truong, Du Nguyen Duong, Tan Bui, Pierre Chambon, Yuhao Zhang, Matthew P. Lungren, Andrew Y. Ng, Curtis P. Langlotz, Pranav Rajpurkar.*<br>
  [[PDF](https://arxiv.org/abs/2106.14463)] [[Url](https://physionet.org/content/radgraph/1.0.0/)]
 
