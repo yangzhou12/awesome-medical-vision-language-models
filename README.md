@@ -114,6 +114,22 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **Vision-Language Transformer for Interpretable Pathology Visual Question Answering.** [Mar., 2022] [JBHI, 2022].<br>
 *Usman Naseem, Matloob Khushi, Jinman Kim.*<br>
  [[PDF](https://doi.org/10.1109/JBHI.2022.3163751)] 
+ 
+   **Medical visual question answering based on question-type reasoning and semantic space constraint.** [Sep., 2022] [ARTMED, 2022].<br>
+*Meiling Wang, Xiaohai He, Luping Liu, Linbo Qing, Honggang Chen, Yan Liu, Chao Ren.*<br>
+ [[PDF](https://doi.org/10.1016/j.artmed.2022.102346)] 
+ 
+   **A Bi-level representation learning model for medical visual question answering.** [Oct., 2022] [JBI, 2022].<br>
+*Yong Li, Shaopei Long, Zhenguo Yang, Heng Weng, Kun Zeng, Zhenhua Huang, FuLee Wang, Tianyong Hao.*<br>
+ [[PDF](https://doi.org/10.1016/j.jbi.2022.104183)] 
+
+   **Caption-Aware Medical VQA via Semantic Focusing and Progressive Cross-Modality Comprehension.** [Oct., 2022] [ACM MM, 2022].<br>
+*Fuze Cong, Shibiao Xu, Li Guo, Yinbing Tian.*<br>
+ [[PDF](https://dl.acm.org/doi/abs/10.1145/3503161.3548122)] 
+ 
+   **A Dual-Attention Learning Network with Word and Sentence Embedding for Medical Visual Question Answering.** [Oct., 2022].<br>
+*Xiaofei Huang, Hongfang Gong.*<br>
+ [[PDF](https://arxiv.org/abs/2210.00220)] 
 
 ## Medical Object Locolization and Anomaly Detection
 
@@ -224,3 +240,12 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **Chest ImaGenome Dataset for Clinical Reasoning.** [Jul., 2021].<br>
 *Joy T. Wu, Nkechinyere N. Agu, Ismini Lourentzou, Arjun Sharma, Joseph A. Paguio, Jasper S. Yao, Edward C. Dee, William Mitchell, Satyananda Kashyap, Andrea Giovannini, Leo A. Celi, Mehdi Moradi.*<br>
  [[PDF](https://arxiv.org/abs/2108.00316)] [[Url](https://doi.org/10.13026/wv01-y230)]
+ 
+   **DrugEHRQA: A Question Answering Dataset on Structured and Unstructured Electronic Health Records For Medicine Related Queries.** [May, 2022].<br>
+*Jayetri Bardhan, Anthony Colas, Kirk Roberts, Daisy Zhe Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2205.01290)] [[Url](https://physionet.org/content/drugehrqa/1.0.0/)]
+ 
+   **OVQA: A Clinically Generated Visual Question Answering Dataset.** [Jul., 2022] [SIGIR, 2022].<br>
+*Yefan Huang, Xiaoli Wang, Feiyan Liu, Guofeng Huang.*<br>
+ [[PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3531724)] [[Url](http://47.94.174.82/)]
+ 
