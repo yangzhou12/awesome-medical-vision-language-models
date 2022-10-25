@@ -32,11 +32,11 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 # Medical Vision-Language Pre-Training
 
-**Self-supervised Image-text Pre-training With Mixed Data In Chest X-rays.** [Mar., 2021].<br>
+  **Self-supervised Image-text Pre-training With Mixed Data In Chest X-rays.** [Mar., 2021].<br>
 *Xiaosong Wang, Ziyue Xu, Leo Tam, Dong Yang, Daguang Xu.*<br>
  [[PDF](https://arxiv.org/pdf/2103.16022)] 
  
- **MMBERT: Multimodal BERT Pretraining for Improved Medical VQA.** (Short Paper) [Apr., 2021].<br>
+  **MMBERT: Multimodal BERT Pretraining for Improved Medical VQA.** (Short Paper) [Apr., 2021].<br>
 *Yash Khare, Viraj Bagal, Minesh Mathew, Adithi Devi, U Deva Priyakumar, CV Jawahar.*<br>
  [[PDF](https://arxiv.org/abs/2104.01394)] [[Github](https://github.com/VirajBagal/MMBERT)]
 
@@ -45,7 +45,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 ## Classification
 
-**Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [20th Nov., 2020] [BIBM, 2020].<br>
+  **Attention-Based Transformers for Instance Segmentation of Cells in Microstructures.** [20th Nov., 2020] [BIBM, 2020].<br>
 *Tim Prangemeier, Christoph Reich, Heinz Koeppl.*<br>
  [[PDF](https://arxiv.org/abs/2011.09763)] [[Github](https://github.com/ChristophReich1996/Cell-DETR)]
  
@@ -54,6 +54,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **A Comparison of Pre-trained Vision-and-Language Models for Multimodal Representation Learning across Medical Images and Reports.** [Sep, 2020] [BIBM, 2020].<br>
 *Yikuan Li, Hanyin Wang, Yuan Luo.*<br>
  [[PDF](https://arxiv.org/abs/2009.01523)] [[Github](https://github.com/YIKUAN8/Transformers-VQA)]
+ 
+   **AMAM: An Attention-based Multimodal Alignment Model for Medical Visual Question Answering.** [Sep, 2022] [KBS, 2022].<br>
+*Yikuan Li, Hanyin Wang, Yuan Luo.*<br>
+ [[PDF](https://doi.org/10.1016/j.knosys.2022.109763)] 
 
 ## Medical Object Locolization
 
