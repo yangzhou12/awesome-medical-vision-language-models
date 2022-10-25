@@ -171,6 +171,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 ## Medical Image Segmentation
 
+   **Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing.** [Apr., 2022] [ECCV 2022].<br>
+*Benedikt Boecking, Naoto Usuyama, Shruthi Bannur, Daniel C. Castro, Anton Schwaighofer, Stephanie Hyland, Maria Wetscherek, Tristan Naumann, Aditya Nori, Javier Alvarez-Valle, Hoifung Poon, Ozan Oktay.*<br>
+ [[PDF](https://arxiv.org/abs/2204.09817)] [[Toolbox](https://hi-ml.readthedocs.io/en/latest/multimodal.html)] [[Dataset](https://www.physionet.org/content/ms-cxr/0.1/)]
+
    **LViT: Language meets Vision Transformer in Medical Image Segmentation.** [Jun., 2022].<br>
 *Zihan Li, Yunxiang Li, Qingde Li, Puyang Wang, You Zhang, Dazhou Guo, Le Lu, Dakai Jin, Qingqi Hong.*<br>
  [[PDF](https://arxiv.org/abs/2206.14718)] [[Github](https://github.com/HUANGLIZI/LViT)]
@@ -210,6 +214,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **CheXpert++: Approximating the CheXpert labeler for Speed,Differentiability, and Probabilistic Output.** [Jun., 2020] [ML4H, 2020].<br>
 *Matthew B. A. McDermott, Tzu Ming Harry Hsu, Wei-Hung Weng, Marzyeh Ghassemi, Peter Szolovits.*<br>
  [[PDF](https://arxiv.org/abs/2006.15229)] [[Github](https://github.com/mmcdermott/chexpertplusplus)] 
+ 
+   **Contrastive Cross-Modal Pre-Training: A General Strategy for Small Sample Medical Imaging.** [Oct., 2020] [JBHI, 2022].<br>
+*Gongbo Liang, Connor Greenwell, Yu Zhang, Xiaoqin Wang, Ramakanth Kavuluru, Nathan Jacobs.*<br>
+ [[PDF](https://arxiv.org/abs/2010.03060)] 
 
    **VisualCheXbert: Addressing the discrepancy between radiology report labels and image labels.** [Apr., 2021] [CHIL, 2021].<br>
 *Saahil Jain, Akshay Smit, Steven QH Truong, Chanh DT Nguyen, Minh-Thanh Huynh, Mudit Jain, Victoria A. Young, Andrew Y. Ng, Matthew P. Lungren, Pranav Rajpurkar.*<br>
@@ -222,6 +230,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **Image Classification with Consistent Supporting Evidence.** [Dec., 2021] [ML4H, 2021].<br>
 *Peiqi Wang, Ruizhi Liao, Daniel Moyer, Seth Berkowitz, Steven Horng, Polina Golland.*<br>
  [[PDF](https://arxiv.org/abs/2111.07048)] 
+ 
+   **Using Multi-modal Data for Improving Generalizability and Explainability of Disease Classification in Radiology.** [Jul., 2022].<br>
+*Pranav Agnihotri, Sara Ketabi, Khashayar (Ernest)Namdar, Farzad Khalvati.*<br>
+ [[PDF](https://arxiv.org/abs/2207.14781)] 
 
    **Explaining Chest X-ray Pathologies in Natural Language.** [Jul., 2022] [MICAI, 2022].<br>
 *Maxime Kayser, Cornelius Emde, Oana-Maria Camburu, Guy Parsons, Bartlomiej Papiez, Thomas Lukasiewicz.*<br>
@@ -284,10 +296,6 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **RadFusion: Benchmarking Performance and Fairness for Multimodal Pulmonary Embolism Detection from CT and EHR.** [Nov., 2021].<br>
 *Yuyin Zhou, Shih-Cheng Huang, Jason Alan Fries, Alaa Youssef, Timothy J. Amrhein, Marcello Chang, Imon Banerjee, Daniel Rubin, Lei Xing, Nigam Shah, Matthew P. Lungren.*<br>
  [[PDF](https://arxiv.org/abs/2111.11665)] [[Url](https://stanfordaimi.azurewebsites.net/datasets/3a7548a4-8f65-4ab7-85fa-3d68c9efc1bd)]
- 
-   **Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing.** [Apr., 2022] [ECCV 2022].<br>
-*Benedikt Boecking, Naoto Usuyama, Shruthi Bannur, Daniel C. Castro, Anton Schwaighofer, Stephanie Hyland, Maria Wetscherek, Tristan Naumann, Aditya Nori, Javier Alvarez-Valle, Hoifung Poon, Ozan Oktay.*<br>
- [[PDF](https://arxiv.org/abs/2204.09817)] [[Toolbox](https://hi-ml.readthedocs.io/en/latest/multimodal.html)] [[Url](https://www.physionet.org/content/ms-cxr/0.1/)]
  
    **DrugEHRQA: A Question Answering Dataset on Structured and Unstructured Electronic Health Records For Medicine Related Queries.** [May, 2022].<br>
 *Jayetri Bardhan, Anthony Colas, Kirk Roberts, Daisy Zhe Wang.*<br>
