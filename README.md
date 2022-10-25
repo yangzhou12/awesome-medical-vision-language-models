@@ -69,6 +69,9 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Ekin Tiu, Ellie Talius, Pujan Patel, Curtis P. Langlotz, Andrew Y. Ng, Pranav Rajpurkar.*<br>
  [[PDF](https://www.nature.com/articles/s41551-022-00936-9)] [[Github](https://github.com/rajpurkarlab/CheXzero)]
  
+  **Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning.** [Oct., 2022] [NeurIPS, 2022].<br>
+*Fuying Wang, Yuyin Zhou, Shujun Wang, Varut Vardhanabhuti, Lequan Yu.*<br>
+ [[PDF](https://arxiv.org/abs/2210.06044)] [[Github](https://github.com/fuying-wang/MGCA)]
 
 # Vision-Language Models for Healthcare
 
@@ -273,6 +276,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **Chest ImaGenome Dataset for Clinical Reasoning.** [Jul., 2021].<br>
 *Joy T. Wu, Nkechinyere N. Agu, Ismini Lourentzou, Arjun Sharma, Joseph A. Paguio, Jasper S. Yao, Edward C. Dee, William Mitchell, Satyananda Kashyap, Andrea Giovannini, Leo A. Celi, Mehdi Moradi.*<br>
  [[PDF](https://arxiv.org/abs/2108.00316)] [[Url](https://doi.org/10.13026/wv01-y230)]
+ 
+   **RadFusion: Benchmarking Performance and Fairness for Multimodal Pulmonary Embolism Detection from CT and EHR.** [Nov., 2021].<br>
+*Yuyin Zhou, Shih-Cheng Huang, Jason Alan Fries, Alaa Youssef, Timothy J. Amrhein, Marcello Chang, Imon Banerjee, Daniel Rubin, Lei Xing, Nigam Shah, Matthew P. Lungren.*<br>
+ [[PDF](https://arxiv.org/abs/2111.11665)] [[Url](https://stanfordaimi.azurewebsites.net/datasets/3a7548a4-8f65-4ab7-85fa-3d68c9efc1bd)]
  
    **DrugEHRQA: A Question Answering Dataset on Structured and Unstructured Electronic Health Records For Medicine Related Queries.** [May, 2022].<br>
 *Jayetri Bardhan, Anthony Colas, Kirk Roberts, Daisy Zhe Wang.*<br>
