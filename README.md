@@ -8,7 +8,7 @@
 
 A curated list of awesome resources in medical vision-language models (**in chronological order**), inspired by the other awesome-initiatives. 
 
-[Another awesome list of vision-language pre-training](https://github.com/zhjohnchan/awesome-vision-and-language-pretraining)
+[Another awesome list](https://github.com/zhjohnchan/awesome-vision-and-language-pretraining) on vision-language pre-training.
 
 <!-- We intend to regularly update the relevant latest papers and their open-source implementations on this page. If you find some overlooked papers, please open an issue or contact at fahad.shamshad3@gmail.com. -->
 
