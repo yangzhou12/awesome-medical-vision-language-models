@@ -11,7 +11,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 <!-- We intend to regularly update the relevant latest papers and their open-source implementations on this page. If you find some overlooked papers, please open an issue or contact at fahad.shamshad3@gmail.com. -->
 
 ## Overview
-- [Survey Papers (if any)](#survey)
+- [Survey Papers](#survey)
 - [General Vision-Language Models](#general-vision-language-models)
 - [Medical Vision-Language Pre-Training](#medical-vision-language-pre-training)
 - [Medical Image Classification/Retrival](#medical-image-classificationretrival)
