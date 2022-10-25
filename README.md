@@ -253,3 +253,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Yefan Huang, Xiaoli Wang, Feiyan Liu, Guofeng Huang.*<br>
  [[PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3531724)] [[Url](http://47.94.174.82/)]
  
+   **Detailed Annotations of Chest X-Rays via CT Projection for Report Understanding.** [Oct., 2022] [BMVC, 2022].<br>
+*Constantin Seibold, Simon Reiß, Saquib Sarfraz, Matthias A. Fink, Victoria Mayer, Jan Sellner, Moon Sung Kim, Klaus H. Maier-Hein, Jens Kleesiek, Rainer Stiefelhagen.*<br>
+ [[PDF](https://arxiv.org/abs/2210.03416)] [[Url](https://constantinseibold.github.io/paxray/)]
+ 
