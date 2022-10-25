@@ -242,6 +242,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **Evaluating Progress in Automatic Chest X-Ray Radiology Report Generation.** [Oct., 2022].<br>
 *Feiyang Yu, Mark Endo, Rayan Krishnan, Ian Pan, Andy Tsai, Eduardo Pontes Reis, Eduardo Kaiser Ururahy Nunes Fonseca, Henrique Min Ho Lee, Zahra Shakeri Hossein Abad, Andrew Y. Ng, Curtis P. Langlotz, Vasantha Kumar Venugopal, Pranav Rajpurkar.*<br>
  [[PDF](https://doi.org/10.1101/2022.08.30.22279318)] 
+ 
+   **Language over Labels: Contrastive Language Supervision Exceeds Purely Label-Supervised Classification Performance on Chest X-Rays.** [Oct., 2022] [AACL SRW, 2022].<br>
+*Wiehe A., Schneider F., Blank S., Wang X., Zorn H., Biemann C.*<br>
+ [[PDF](https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/wieheetal2022.pdf)] 
 
 # Datasets
 
