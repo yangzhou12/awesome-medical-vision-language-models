@@ -71,9 +71,9 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 # Datasets
 
-   **MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs.** [Jan., 2019].[NAACL, 2020]<br>
-*Yasuhide Miura, Yuhao Zhang, Emily Bao Tsai, Curtis P. Langlotz, Dan Jurafsky.*<br>
- [[PDF](https://arxiv.org/pdf/1901.07042.pdf)] [[Url](https://physionet.org/content/mimic-cxr-jpg/2.0.0/)]
+   **MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs.** [Jan., 2019].<br>
+*Alistair E. W. Johnson, Tom J. Pollard, Nathaniel R. Greenbaum, Matthew P. Lungren, Chih-ying Deng, Yifan Peng, Zhiyong Lu, Roger G. Mark, Seth J. Berkowitz, Steven Horng.*<br>
+ [[PDF](https://arxiv.org/pdf/1901.07042.pdf)] [[Url](https://doi.org/10.13026/8360-t248)]
  
 
 <!-- # Citation
