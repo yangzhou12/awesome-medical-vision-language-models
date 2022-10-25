@@ -186,6 +186,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 ## Medical Report Generation
 
+   **Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation.** [Oct., 2020] [NAACL, 2020].<br>
+*Yasuhide Miura, Yuhao Zhang, Emily Bao Tsai, Curtis P. Langlotz, Dan Jurafsky.*<br>
+ [[PDF](https://arxiv.org/abs/2010.10042)] 
+
    **Generating Radiology Reports via Memory-driven Transformer.** [Oct., 2020] [EMNLP, 2020].<br>
 *Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan.*<br>
  [[PDF](https://arxiv.org/abs/2010.16056)] 
