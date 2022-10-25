@@ -16,7 +16,11 @@ A curated list of awesome resources in medical vision-language models (**in chro
 - [Survey Papers](#survey)
 - [Medical Vision-Language Pre-Training](#medical-vision-language-pre-training)
 - [Vision-Language Models for Healthcare](#vision-language-models-for-healthcare)
-    - [Classification]
+    - [Classification](#classification)
+    - [Medical Vision Question Answering](#classification)
+    - [Medical Object Locolization and Anomaly Detection](#classification)
+    - [Medical Image Segmentation](#classification)
+    - [Medical Report Generation](#classification)
 - [Explaination, Bias, Noise, and Robustness](#explaination-bias-noise-and-robustness)
 - [Datasets](#datasets)
 <!-- - [General Vision-Language Models](#general-vision-language-models) -->
@@ -180,7 +184,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Zihan Li, Yunxiang Li, Qingde Li, Puyang Wang, You Zhang, Dazhou Guo, Le Lu, Dakai Jin, Qingqi Hong.*<br>
  [[PDF](https://arxiv.org/abs/2206.14718)] [[Github](https://github.com/HUANGLIZI/LViT)]
 
-## Clinical Report Generation
+## Medical Report Generation
 
    **Generating Radiology Reports via Memory-driven Transformer.** [Oct., 2020] [EMNLP, 2020].<br>
 *Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan.*<br>
