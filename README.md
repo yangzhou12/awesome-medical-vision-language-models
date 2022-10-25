@@ -73,6 +73,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 ## Classification
 
+   **Joint Modeling of Chest Radiographs and Radiology Reports for Pulmonary Edema Assessment.** [Aug., 2020] [MICCAI 2020].<br>
+*Geeticka Chauhan, Ruizhi Liao, William Wells, Jacob Andreas, Xin Wang, Seth Berkowitz, Steven Horng, Peter Szolovits, Polina Golland.*<br>
+ [[PDF](https://arxiv.org/abs/2008.09884)] [[Github](https://github.com/RayRuizhiLiao/joint_chestxray)]  
+
    **BERTHop: An Effective Vision-and-Language Model for Chest X-ray Disease Diagnosis.** [Aug., 2021] [ICCV Workshop 2021].<br>
 *Masoud Monajatipoor, Mozhdeh Rouhsedaghat, Liunian Harold Li, Aichi Chien, C.-C. Jay Kuo, Fabien Scalzo, Kai-Wei Chang.*<br>
  [[PDF](https://arxiv.org/abs/2108.04938)] 
