@@ -16,6 +16,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 - [Survey Papers](#survey)
 - [Medical Vision-Language Pre-Training](#medical-vision-language-pre-training)
 - [Vision-Language Models for Healthcare](#vision-language-models-for-healthcare)
+- [Explaination, Bias, Noise, and Robustness](#explaination-bias-noise-and-robustness)
 - [Datasets](#datasets)
 <!-- - [General Vision-Language Models](#general-vision-language-models) -->
 <!-- - [Medical Image Reconstruction](#reconstruction) -->
