@@ -206,6 +206,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **That's the Wrong Lung! Evaluating and Improving the Interpretability of Unsupervised Multimodal Encoders for Medical Data.** [Oct., 2022].<br>
 *Denis Jered McInerney, Geoffrey Young, Jan-Willem van de Meent, Byron C. Wallace.*<br>
  [[PDF](https://arxiv.org/abs/2210.06565)] 
+ 
+   **Evaluating Progress in Automatic Chest X-Ray Radiology Report Generation.** [Oct., 2022].<br>
+*Feiyang Yu, Mark Endo, Rayan Krishnan, Ian Pan, Andy Tsai, Eduardo Pontes Reis, Eduardo Kaiser Ururahy Nunes Fonseca, Henrique Min Ho Lee, Zahra Shakeri Hossein Abad, Andrew Y. Ng, Curtis P. Langlotz, Vasantha Kumar Venugopal, Pranav Rajpurkar.*<br>
+ [[PDF](https://doi.org/10.1101/2022.08.30.22279318)] 
 
 # Datasets
 
