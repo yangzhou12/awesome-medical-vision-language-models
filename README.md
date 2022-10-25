@@ -14,9 +14,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 - [Survey Papers](#survey)
 - [General Vision-Language Models](#general-vision-language-models)
 - [Medical Vision-Language Pre-Training](#medical-vision-language-pre-training)
-- [Medical Image Classification/Retrival](#medical-image-classificationretrival)
-- [Medical Object Localization](#medical-object-locolization)
-- [Clinical Report Generation](#clinical-report-generation)
+- [Vision-Language Models for Healthcare](#medical-image-classificationretrival)
 - [Datasets](#datasets)
 <!-- - [Medical Image Reconstruction](#reconstruction) -->
 
@@ -38,7 +36,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Tim Prangemeier, Christoph Reich, Heinz Koeppl.*<br>
  [[PDF](https://arxiv.org/abs/2011.09763)] [[Github](https://github.com/ChristophReich1996/Cell-DETR)]
  
-# Medical Image Classification/Retrival
+# Vision-Language Models for Healthcare
 
 ## Classification
 
@@ -46,11 +44,20 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Tim Prangemeier, Christoph Reich, Heinz Koeppl.*<br>
  [[PDF](https://arxiv.org/abs/2011.09763)] [[Github](https://github.com/ChristophReich1996/Cell-DETR)]
  
-# Medical Object Locolization
+## Medical Vision Question Answering
+
+## Medical Object Locolization
 
    **Weakly supervised one-stage vision and language disease detection using large scale pneumonia and pneumothorax studies.** [Jul, 2020] [MICAI, 2020].<br>
 *Leo K. Tam, Xiaosong Wang, Evrim Turkbey, Kevin Lu, Yuhong Wen, Daguang Xu.*<br>
  [[PDF](https://arxiv.org/abs/2007.15778)] 
+ 
+## Medical Image Segmentation
+
+## Clinical Report Generation
+ 
+## Medical Object Locolization
+
 
 
 # Medical Image Segmentation
