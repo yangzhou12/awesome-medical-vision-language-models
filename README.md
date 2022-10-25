@@ -32,9 +32,14 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 # Medical Vision-Language Pre-Training
 
-**Self-supervised Image-text Pre-training With Mixed Data In Chest X-rays.** [Mar., 2021] [BIBM, 2020].<br>
+**Self-supervised Image-text Pre-training With Mixed Data In Chest X-rays.** [Mar., 2021].<br>
 *Xiaosong Wang, Ziyue Xu, Leo Tam, Dong Yang, Daguang Xu.*<br>
- [[PDF](https://arxiv.org/pdf/2103.16022)] [[Github](https://github.com/ChristophReich1996/Cell-DETR)]
+ [[PDF](https://arxiv.org/pdf/2103.16022)] 
+ 
+ **MMBERT: Multimodal BERT Pretraining for Improved Medical VQA.** [Apr., 2021].<br>
+*Yash Khare, Viraj Bagal, Minesh Mathew, Adithi Devi, U Deva Priyakumar, CV Jawahar.*<br>
+ [[PDF](https://arxiv.org/abs/2104.01394)] [[Github](https://github.com/VirajBagal/MMBERT)]
+
  
 # Vision-Language Models for Healthcare
 
