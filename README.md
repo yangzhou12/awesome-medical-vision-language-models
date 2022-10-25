@@ -181,6 +181,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 ## Clinical Report Generation
 
+   **Generating Radiology Reports via Memory-driven Transformer.** [Oct., 2020] [EMNLP, 2020].<br>
+*Zhihong Chen, Yan Song, Tsung-Hui Chang, Xiang Wan.*<br>
+ [[PDF](https://arxiv.org/abs/2010.16056)] 
+
    **Exploring and Distilling Posterior and Prior Knowledge for Radiology Report Generation.** [Jun., 2021] [CVPR, 2021].<br>
 *Fenglin Liu, Xian Wu, Shen Ge, Wei Fan, Yuexian Zou.*<br>
  [[PDF](https://arxiv.org/abs/2106.06963)] 
@@ -216,10 +220,30 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **Radiology Report Generation with a Learned Knowledge Base and Multi-modal Alignment.** [Dec., 2021].<br>
 *Shuxin Yang, Xian Wu, Shen Ge, S.Kevin Zhou, Li Xiao.*<br>
  [[PDF](https://arxiv.org/abs/2112.15011)]
+ 
+   **Improving Chest X-Ray Report Generation by Leveraging Warm-Starting.** [Jan., 2022].<br>
+*Aaron Nicolson, Jason Dowling, Bevan Koopman.*<br>
+ [[PDF](https://arxiv.org/abs/2201.09405)] [[Github](https://github.com/aehrc/cvt2distilgpt2)]
 
    **Few-shot Structured Radiology Report Generation Using Natural Language Prompts.** [Mar., 2022].<br>
 *Matthias Keicher, Kamilia Mullakaeva, Tobias Czempiel, Kristina Mach, Ashkan Khakzar, Nassir Navab.*<br>
  [[PDF](https://arxiv.org/abs/2203.15723)] 
+ 
+   **A Self-Guided Framework for Radiology Report Generation.** [Jun., 2022] [MICAI, 2022].<br>
+*Jun Li, Shibo Li, Ying Hu, Huiren Tao.*<br>
+ [[PDF](https://arxiv.org/abs/2206.09378)] 
+ 
+   **Cross-modal Prototype Driven Network for Radiology Report Generation.** [Jul., 2022] [ECCV, 2022].<br>
+*Jun Wang, Abhir Bhalerao, Yulan He.*<br>
+ [[PDF](https://arxiv.org/abs/2207.04818)] 
+ 
+   **Attributed Abnormality Graph Embedding for Clinically Accurate X-Ray Report Generation.** [Jul., 2022].<br>
+*Sixing Yan, William K. Cheung, Keith Chiu, Terence M. Tong, Charles K. Cheung, Simon See.*<br>
+ [[PDF](https://arxiv.org/abs/2207.01208)] 
+ 
+   **Prior Guided Transformer for Accurate Radiology Reports Generation.** [Aug., 2022] [JBHI, 2022].<br>
+*Bin Yan, Mingtao Pei, Meng Zhao, Caifeng Shan, Zhaoxing Tian.*<br>
+ [[PDF](https://doi.org/10.1109/JBHI.2022.3197162)] 
  
    **A Medical Semantic-Assisted Transformer for Radiographic Report Generation.** [Aug., 2022] [MICAI, 2022].<br>
 *Zhanyu Wang, Mingkang Tang, Lei Wang, Xiu Li, Luping Zhou.*<br>
@@ -229,6 +253,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Ajay Kumar Tanwani, Joelle Barral, Daniel Freedman.*<br>
  [[PDF](https://arxiv.org/abs/2209.13171)] 
  
+   **An Inclusive Task-Aware Framework for Radiology Report Generation.** [Sep., 2022] [MICAI, 2022].<br>
+*Lin Wang, Munan Ning, Donghuan Lu, Dong Wei, Yefeng Zheng, Jie Chen .*<br>
+ [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_54)] 
+ 
    **TranSQ: Transformer-Based Semantic Query for Medical Report Generation.** [Sep., 2022] [MICAI, 2022].<br>
 *Ming Kong, Zhengxing Huang, Kun Kuang, Qiang Zhu, Fei Wu .*<br>
  [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_58)] [[Github](https://github.com/zjukongming/TranSQ)]
@@ -236,6 +264,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **JPG - Jointly Learn to Align: Automated Disease Prediction and Radiology Report Generation.** [Oct., 2022] [COLING, 2022].<br>
 *Jingyi You, Dongyuan Li, Manabu Okumura, Kenji Suzuki.*<br>
  [[PDF](https://aclanthology.org/2022.coling-1.523/)] 
+ 
+   **DeltaNet: Conditional Medical Report Generation for COVID-19 Diagnosis.** [Oct., 2022] [COLING, 2022].<br>
+*Xian Wu, Shuxin Yang, Zhaopeng Qiu, Shen Ge, Yangtian Yan, Xingwang Wu, Yefeng Zheng, S. Kevin Zhou, Li Xiao.*<br>
+ [[PDF](https://aclanthology.org/2022.coling-1.261/)] 
 
    **Improving Radiology Summarization with Radiograph and Anatomy Prompts.** [Oct., 2022].<br>
 *Jinpeng Hu, Zhihong Chen, Yang Liu, Xiang Wan, Tsung-Hui Chang.*<br>
