@@ -349,6 +349,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
    **MIMIC-CXR-JPG, a large publicly available database of labeled chest radiographs.** [Jan., 2019].<br>
 *Alistair E. W. Johnson, Tom J. Pollard, Nathaniel R. Greenbaum, Matthew P. Lungren, Chih-ying Deng, Yifan Peng, Zhiyong Lu, Roger G. Mark, Seth J. Berkowitz, Steven Horng.*<br>
  [[PDF](https://arxiv.org/pdf/1901.07042.pdf)] [[Url](https://doi.org/10.13026/8360-t248)]
+ 
+   **VQA-RAD: A database for using machine learning and data mining techniques for coronary artery disease diagnosis.** [Oct., 2019] [Scientific Data, 2019].<br>
+*R. Alizadehsani, M. Roshanzamir, M. Abdar, A. Beykikhoshk, A. Khosravi, M. Panahiazar, A. Koohestani, F. Khozeimeh, S. Nahavandi, N. Sarrafzadegan.*<br>
+ [[PDF](https://www.nature.com/articles/s41597-019-0206-3)] [[Url](https://osf.io/89kps/)]
 
    **MIMIC-CXR-annotations.** [Jul, 2020].<br>
 *Leo K. Tam, Xiaosong Wang, Evrim Turkbey, Kevin Lu, Yuhong Wen, Daguang Xu.*<br>
