@@ -17,7 +17,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 - [Medical Vision-Language Pre-Training](#medical-vision-language-pre-training)
 - [Vision-Language Models for Healthcare](#vision-language-models-for-healthcare)
     - [Classification](#classification)
-    - [Medical Vision Question Answering](#classification)
+    - [Medical Vision Question Answering](#medical-vision-question-answering)
     - [Medical Object Locolization and Anomaly Detection](#classification)
     - [Medical Image Segmentation](#classification)
     - [Medical Report Generation](#classification)
