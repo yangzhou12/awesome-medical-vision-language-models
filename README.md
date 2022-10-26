@@ -49,6 +49,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
   **Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports.** [Oct., 2021] [Nature Machine Learning, 2022].<br>
 *Hong-Yu Zhou, Xiaoyu Chen, Yinghao Zhang, Ruibang Luo, Liansheng Wang, Yizhou Yu.*<br>
  [[PDF](https://www.nature.com/articles/s42256-021-00425-9)] [[Github](https://github.com/funnyzhou/refers)]
+ 
+   **Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing.** [Apr., 2022] [ECCV, 2022].<br>
+*Benedikt Boecking, Naoto Usuyama, Shruthi Bannur, Daniel C. Castro, Anton Schwaighofer, Stephanie Hyland, Maria Wetscherek, Tristan Naumann, Aditya Nori, Javier Alvarez-Valle, Hoifung Poon, Ozan Oktay.*<br>
+ [[PDF](https://arxiv.org/abs/2204.09817)] [[Toolbox](https://hi-ml.readthedocs.io/en/latest/multimodal.html)] [[Dataset](https://www.physionet.org/content/ms-cxr/0.1/)]
 
   **Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation.** [Jun., 2022] [AAAI, 2022].<br>
 *Bin Yan, Mingtao Pei.*<br>
@@ -77,6 +81,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
   **Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning.** [Oct., 2022] [NeurIPS, 2022].<br>
 *Fuying Wang, Yuyin Zhou, Shujun Wang, Varut Vardhanabhuti, Lequan Yu.*<br>
  [[PDF](https://arxiv.org/abs/2210.06044)] [[Github](https://github.com/fuying-wang/MGCA)]
+
 
 # Vision-Language Models for Healthcare
 
@@ -175,10 +180,6 @@ A curated list of awesome resources in medical vision-language models (**in chro
  [[PDF](https://arxiv.org/abs/2210.04133)] 
 
 ## Medical Image Segmentation
-
-   **Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing.** [Apr., 2022] [ECCV, 2022].<br>
-*Benedikt Boecking, Naoto Usuyama, Shruthi Bannur, Daniel C. Castro, Anton Schwaighofer, Stephanie Hyland, Maria Wetscherek, Tristan Naumann, Aditya Nori, Javier Alvarez-Valle, Hoifung Poon, Ozan Oktay.*<br>
- [[PDF](https://arxiv.org/abs/2204.09817)] [[Toolbox](https://hi-ml.readthedocs.io/en/latest/multimodal.html)] [[Dataset](https://www.physionet.org/content/ms-cxr/0.1/)]
 
    **LViT: Language meets Vision Transformer in Medical Image Segmentation.** [Jun., 2022].<br>
 *Zihan Li, Yunxiang Li, Qingde Li, Puyang Wang, You Zhang, Dazhou Guo, Le Lu, Dakai Jin, Qingqi Hong.*<br>
