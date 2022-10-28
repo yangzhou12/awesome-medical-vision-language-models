@@ -117,7 +117,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
    **MedCLIP: Contrastive Learning from Unpaired Medical Images and Text.** [Oct., 2022] [EMNLP, 2022].<br>
 *Zifeng Wang, Zhenbang Wu, Dinesh Agarwal, Jimeng Sun.*<br>
- [[PDF](https://arxiv.org/abs/2210.10163)]
+ [[PDF](https://arxiv.org/abs/2210.10163)] [[Github](https://github.com/RyanWangZf/MedCLIP)] 
 
 ## Medical Vision Question Answering
 
