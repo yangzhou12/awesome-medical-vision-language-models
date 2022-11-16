@@ -46,7 +46,7 @@ A curated list of awesome resources in medical vision-language models (**in chro
 *Jong Hak Moon, Hyungyung Lee, Woncheol Shin, Young-Hak Kim, Edward Choi.*<br>
  [[PDF](https://arxiv.org/abs/2105.11333)] [[Github](https://github.com/SuperSupermoon/MedViLL)]
  
-  **Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports.** [Oct., 2021] [Nature Machine Learning, 2022].<br>
+  **Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports.** [Oct., 2021] [Nature Machine Intelligence, 2022].<br>
 *Hong-Yu Zhou, Xiaoyu Chen, Yinghao Zhang, Ruibang Luo, Liansheng Wang, Yizhou Yu.*<br>
  [[PDF](https://www.nature.com/articles/s42256-021-00425-9)] [[Github](https://github.com/funnyzhou/refers)]
  
