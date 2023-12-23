@@ -28,6 +28,10 @@ A curated list of awesome resources in medical vision-language models (**in chro
 
 # Survey
 
+**A Systematic Review of Deep Learning-based Research on Radiology Report Generation** [Nov., 2023].<br>
+*Chang Liu, Yuanhe Tian, Yan Song.*<br>
+[[PDF](https://arxiv.org/abs/2311.14199)] 
+
 **Deep Multi-modal Fusion of Image and Non-image Data in Disease Diagnosis and Prognosis: A Review.** [Mar., 2022].<br>
 *Can Cui, Haichun Yang, Yaohong Wang, Shilin Zhao, Zuhayr Asad, Lori A. Coburn, Keith T. Wilson, Bennett A. Landman, Yuankai Huo.*<br>
 [[PDF](https://arxiv.org/abs/2203.15588)] 
